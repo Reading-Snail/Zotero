@@ -1,0 +1,68 @@
+Video: Sunflower: Locating Underwater Robots From the Air
+Charles J. Carver†, Qijia Shao†, Samuel Lensgraf, Amy Sniffen, Maxine Perroni-Scharf, Hunter Gallant, Alberto Quattrini Li, and Xia Zhou
+{ccarver.gr, qijia.shao.gr, samuel.e.lensgraf.gr, amy.k.sniffen.gr, maxine.a.perroni-scharf.21, hunter.j.gallant.gr}@dartmouth.edu {alberto.quattrini.li, xia.zhou}@dartmouth.edu Department of Computer Science, Dartmouth College, † Co-primary Authors
+ABSTRACT
+Locating underwater robots is fundamental for enabling important underwater applications. The current mainstream method requires a physical infrastructure with relays on the water surface, which is largely ad-hoc, introduces a significant logistical overhead, and entails limited scalability. Our work, Sunflower, is the first system demonstrating wireless, 3D localization across the air-water interface and eliminates the need for any sensing additional infrastructure. This demonstration video [1] evaluates the Sunflower system on a mobile drone and mobile underwater robot, showing the underwater robot’s continuous ground-truth trajectory along with the Sunflower estimates at six discrete positions.
+CCS CONCEPTS
+• Hardware → Sensor devices and platforms; Sensor applications and deployments.
+ACM Reference Format:
+Charles J. Carver†, Qijia Shao†, Samuel Lensgraf, Amy Sniffen, Maxine Perroni-Scharf,, Hunter Gallant, Alberto Quattrini Li, and Xia Zhou. 2022. Video: Sunflower: Locating Underwater Robots From the Air. In The 20th Annual International Conference on Mobile Systems, Applications and Services (MobiSys ’22), June 25-July 1, 2022, Portland, OR, USA. ACM, New York, NY, USA, 2 pages. https://doi.org/10.1145/3498361.3538656
+1 INTRODUCTION
+Underwater robots and sensors play a critical role in advancing exploration and monitoring of the underwater world. High-impact applications include inspection of aging national infrastructure and prevention of water pollution [2]. To enable such applications and scale up the use of underwater assets, it is important to obtain their global location during deployment. However, unlike land technology, there is no underwater global localization infrastructure. Instead, most technology focuses on dead reckoning through inertial or acoustic sensors. For global sensing of underwater assets, the mainstream method relies on an infrastructure (e.g., a boat or network of buoys) temporarily deployed on the water’s surface [2]. The infrastructure is connected to both underwater assets (via acoustic transducers, completely submerged in the water) and the ground station (via tethering or Wi-Fi). The logistical and deployment overhead of these surface buoys or vehicles constrains sensing coverage and limits the
+Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for third-party components of this work must be honored. For all other uses, contact the owner/author(s).
+MobiSys ’22, June 25-July 1, 2022, Portland, OR, USA © 2022 Copyright held by the owner/author(s). ACM ISBN 978-1-4503-9185-6/22/06. https://doi.org/10.1145/3498361.3538656
+Aerial Drone
+LaserLight
+Autonomous Underwater Vehicle
+Queen (458g)
+Ø17 cm Worker (435g)
+12cm
+6.35cm
+Figure 1: Sunflower in action. With a queen component on an aerial drone and a worker component on an underwater robot, Sunflower enables the drone to locate the underwater robot without surface relays.
+overall system scalability. Additionally, since floating surface buoys follow the current, they offer limited mobility for proactive control. Therefore, it is generally recognized in the robotics community that using flying vehicles to directly sense underwater assets will advance such efforts. Not only do flying vehicles expand sensing coverage, they also offer greater control over mobility and deployability. To realize this goal, it is essential to allow aerial drones to directly sense underwater nodes without surface relays. Unfortunately, existing technologies for wireless sensing only consider a single physical medium and are thus inapplicable to the air-water setting. For example, sensing with radio frequency (RF) signals has shown the possibility of motion tracking in the air, however these same RF signals would suffer severe attenuation in the water [2] and would not sustain reasonable sensing distances. Additionally, although acoustic sensing is the mainstream method for sensing underwater robots [2], these acoustic signals cannot cross the air-water boundary and thus preclude direct air-water sensing. Recent work [2] has leveraged either the photoacoustic effect or fluid lensing algorithms for underwater imaging from the air. Despite the ability for underwater imaging, these rationales have not demonstrated 3D localization of underwater objects. In this paper, we study the potential of direct air-water sensing using laser light, with the goal of enabling an aerial drone to locate underwater robots without any surface relays (Figure 1). Light is the most suitable medium because it can effectively pass the airwater interface with less than 10% energy reflected back (when the incident angle is <50° [2]). Compared to acoustics, light propagates faster and entails shorter communication/sensing latency. Compared to RF, light endures much lower attenuation in the water; light in the blue/green region (420 nm – 550 nm) attenuates less than 0.5 dB/m in water [2]. We specifically consider blue/green laser
+607
+
+
+MobiSys ’22, June 25-July 1, 2022, Portland, OR, USA C. Carver et al.
+Incident Beam
+x
+y
+kγ
+Pinhole Aperture
+Image Sensor
+ω
+x
+y
+z
+(a) AoA Sensing.
+Retroreflected Light
+Fisheye Lens
+Connected Fiber
+Front View Back View
+(b) Fiber Ring.
+Figure 2: AoA sensing rationale and illuminated fiber ring.
+light due to its superior sensing properties including (1) narrow (510nm) spectral power distribution, allowing the optical energy to be concentrated to the wavelength range with the smallest attenuation in the air/water, and (2) low beam divergence, which maximizes the energy efficiency and enhances communication/sensing distance.
+2 SYSTEM DESIGN
+Our key contributions are within Sunflower, the first sensing system to demonstrate 3D localization across the air-water boundary [2]. Borrowing from the hierarchy of bees, Sunflower is composed of a queen component attached to an aerial drone and worker components attached to underwater robots that need to be located. Achieving accurate air-water sensing using laser light presents a number of practical challenges. First, the air-water context complicates the geometry for locating underwater robots from the air – specifically because of the refraction occurring at the air-water interface. Second, the air-water scenario also weakens the retroreflected light traveling across the air-water boundary twice. Third, compounding the above issues is the presence of ambient light interference which further decreases the sensing SNR and leads to sensing false positives caused by the environment. The Sunflower system addresses each of these challenges individually. To overcome the sensing skew at the boundary, instead of sensing the refraction angle, Sunflower relies on an angle-ofarrival (AoA) sensing component on the worker which senses the incident angle after refraction from the current wave surface. As shown in Figure 2(b), by placing a small pinhole mask above an image sensor, the laser beam produces a tiny spot, whose position is dependent on the incident angles. To sense the weak retroreflected light, Sunflower utilizes a novel optical fiber sensing ring to enhance the sensing sensitivity while easing the collocation of the photodiode and transmitter. As shown in Figure 2(a), the sensing ring is composed of optical fiber bundles that are evenly placed around the transmitter’s fisheye lens. Given the flexibility associated with optical fiber, the optical fiber can be collocated as close as possible to the transmitter’s exit point, thereby maximizing the amount of backscattered light capable of being sensed. Finally, to combat ambient light interference, Sunflower exploits the (1) spectrum sparsity of laser light to filter out the majority of ambient light energy and (2) the polarized nature of laser light to double the SNR of the backscatter sensing. Considering the system as a whole, the queen component contains the laser steering and fiber sensing component, while the worker contains the AoA sensing component and a retroreflective tag. During link acquisition, the queen actively steers a laser beam to sense the light retroreflected by the worker. Once the queen’s laser beam hits the worker, the worker senses its incident angle
+(a) Queen. (b) Worker.
+Figure 3: Experimental setup for tracking demo.
+−60 −30 0 30 60 −60
+−30
+0
+30
+60
+−40
+−30
+−20
+Sunflower Groundtruth
+x
+(cm)
+y(cm)
+z (cm)
+Figure 4: Localization error for tracking demo.
+and sends its AoA and depth back to the queen via backscatter communication. Finally, the queen combines this information with its own GPS location and altitude sensor, computing the worker’s 3D location in real time.
+3 VIDEO DEMONSTRATION
+Having evaluated the range and accuracy of our system [2], we now evaluate the complete setup with an aerial drone and underwater robot. The complete video of this demonstration can be seen at [1]. As shown in Figure 3, we fix the queen onto the front of the aerial drone and the worker to the side of an underwater robot. First, we program the robot to position itself at six evenly-spaced locations in a 1 m × 1 m grid positioned 0.3 m below the surface. Second, the queen is programmed to fly 1.5 m above the grid, periodically changing its x-y position to emulate real-world drone mobility. Third, the queen scans its laser beam in a spiral until it hits the underwater robot, where it collects localization data for approximately 30 s. Finally, the underwater robot is instructed to move to its next position until the worker is sensed once again. This process continues until all six points have been localized. The continuous ground truth trajectory (computed using the robot’s camera and fiducial markers placed at fixed locations), along with the six Sunflower locations, are plotted in Figure 4. The average 3D localization error across all six points was 8.98 cm, with a standard deviation of 2.03 cm. Throughout the experiment, the pool had an illuminance between 5000 lx and 23,000 lx and waves up to 10 cm high. Once steered to a specific location, the drone had an angular instability of roughly 1°s and the underwater robot had an angular instability of 1.2°/s. Despite these real world conditions – e.g., mobility, vibrations, sunlight, and waves – our system remained fully capable of 3D localization across the air-water boundary with centimeter-level accuracy.
+REFERENCES
+[1] 2022. Sunflower Demo Video. https://youtu.be/ofpqm2G2s_U. [2] Charles J. Carver, Qijia Shao, Samuel Lensgraf, Amy Sniffen, Maxine PerroniScharf, Hunter Gallant, Alberto Quattrini Li, and Xia Zhou. 2022. Sunflower: Locating Underwater Robots From the Air. In Proceedings of the 20th Annual International Conference on Mobile Systems, Applications, and Services.
+608

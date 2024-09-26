@@ -1,0 +1,231 @@
+skip to main content
+ Sign in
+DEMONSTRATION
+Demo: Scalable Digital Twin System for Mobile Networks with Generative AI
+Authors: Jiahui Gong, Qiaohong Yu, Tong Li, Haoqiang LiuAuthors Info & Claims
+MobiSys '23: Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services
+Pages 610 - 611
+https://doi.org/10.1145/3581791.3597297
+Published: 18 June 2023 Publication History
+7
+citation
+453
+Downloads
+Get Access
+MobiSys '23: Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services
+Demo: Scalable Digital Twin System for Mobile Networks with Generative AI
+Pages 610 - 611
+Previous
+Next
+Abstract
+References
+Information & Contributors
+Bibliometrics & Citations
+Get Access
+References
+Media
+Tables
+Share
+Abstract
+Digital Twin brings a new realization approach to the modeling of mobile networks. Mobile networks, as complex systems comprising multiple components, such as mobile users, base stations, and wireless environments, have intricate interactions and relationships with each other. By creating a virtual replica of each physical mobile network entity in a virtual space, we build a scalable digital twin system for mobile networks with generative AI. The system can interact with multiple optimizers to evaluate and display real-time simulation results. A companion video can be accessed using the link below. https://youtu.be/xtcBIXPzvkc
+References
+[1]
+Shuodi Hui, Huandong Wang, Zhenhua Wang, Xinghao Yang, Zhongjin Liu, Depeng Jin, and Yong Li. 2022. Knowledge Enhanced GAN for IoT Traffic Generation. In Proceedings of the ACM Web Conference 2022. 3336--3346.
+Digital Library
+Google Scholar
+[2]
+Yuan Yuan, Jingtao Ding, Huandong Wang, Depeng Jin, and Yong Li. 2022. Activity Trajectory Generation via Modeling Spatiotemporal Dynamics. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 4752--4762.
+Digital Library
+Google Scholar
+[3]
+Guozhen Zhang, Zihan Yu, Depeng Jin, and Yong Li. 2022. Physics-infused machine learning for crowd simulation. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2439--2449.
+Digital Library
+Google Scholar
+[4]
+Jun Zhang, Depeng Jin, and Yong Li. 2022. Mirage: an efficient and extensible city simulation framework (systems paper). Proceedings of the 30th International Conference on Advances in Geographic Information Systems (2022).
+Digital Library
+Google Scholar
+Cited By
+View all
+Li THui SZhang SWang HZhang YHui PJin DLi Y(2024)Mobile User Traffic Generation Via Multi-Scale Hierarchical GANACM Transactions on Knowledge Discovery from Data10.1145/366465518:8(1-19)Online publication date: 10-May-2024
+https://dl.acm.org/doi/10.1145/3664655
+Hwang ASiy JShelby RLentz A(2024)In Whose Voice?: Examining AI Agent Representation of People in Social Interaction through Generative SpeechProceedings of the 2024 ACM Designing Interactive Systems Conference10.1145/3643834.3661555(224-245)Online publication date: 1-Jul-2024
+https://dl.acm.org/doi/10.1145/3643834.3661555
+Ma YLi TZhou YYu LJin D(2024)Mitigating Energy Consumption in Heterogeneous Mobile Networks Through Data-Driven OptimizationIEEE Transactions on Network and Service Management10.1109/TNSM.2024.341694721:4(4369-4382)Online publication date: Aug-2024
+https://doi.org/10.1109/TNSM.2024.3416947
+Show More Cited By
+Index Terms
+Demo: Scalable Digital Twin System for Mobile Networks with Generative AI
+
+Computing methodologies
+
+Modeling and simulation
+
+Networks
+
+Network performance evaluation
+
+Network simulations
+
+Recommendations
+DEMO: Starving Permission-Hungry Android Apps Using SecuRank
+CCS '16: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security
+Read More
+Enhancing security in mobile data networks through end user and core network cooperation
+MoMM '13: Proceedings of International Conference on Advances in Mobile Computing & Multimedia
+Read More
+Integration challenges for digital twin systems-of-systems
+SESoS '22: Proceedings of the 10th IEEE/ACM International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems
+Read More
+Comments
+Information & Contributors
+Information
+Published In
+MobiSys '23: Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services
+June 2023651 pages
+ISBN:
+9798400701108
+DOI:
+10.1145/3581791
+General Chairs:Petteri Nurmi,Pan Hui,Program Chairs:+ 2
+Copyright © 2023 Owner/Author(s).
+Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for third-party components of this work must be honored. For all other uses, contact the owner/author(s).
+Sponsors
+SIGMOBILE: ACM Special Interest Group on Mobility of Systems, Users, Data and Computing
+In-Cooperation
+SIGOPS: ACM Special Interest Group on Operating Systems
+Publisher
+
+Association for Computing Machinery
+
+New York, NY, United States
+
+Publication History
+Published: 18 June 2023
+Check for updates
+Author Tags
+digital twins
+mobile networks
+generative AI
+simulation
+Qualifiers
+Demonstration
+Conference
+MobiSys '23	
+SIGMOBILE
+MobiSys '23: 21st Annual International Conference on Mobile Systems, Applications and Services
+June 18 - 22, 2023
+Helsinki, Finland
+Acceptance Rates
+MobiSys '23 Paper Acceptance Rate 41 of 198 submissions, 21%;
+Overall Acceptance Rate 274 of 1,679 submissions, 16%
+More
+Contributors
+Other Metrics
+View Article Metrics
+Bibliometrics & Citations
+Bibliometrics
+Article Metrics
+7
+Total Citations
+View Citations
+453
+Total Downloads
+Downloads (Last 12 months)
+307
+Downloads (Last 6 weeks)
+17
+Reflects downloads up to 04 Sep 2024
+Other Metrics
+View Author Metrics
+Citations
+Cited By
+View all
+Li THui SZhang SWang HZhang YHui PJin DLi Y(2024)Mobile User Traffic Generation Via Multi-Scale Hierarchical GANACM Transactions on Knowledge Discovery from Data10.1145/366465518:8(1-19)Online publication date: 10-May-2024
+https://dl.acm.org/doi/10.1145/3664655
+Hwang ASiy JShelby RLentz A(2024)In Whose Voice?: Examining AI Agent Representation of People in Social Interaction through Generative SpeechProceedings of the 2024 ACM Designing Interactive Systems Conference10.1145/3643834.3661555(224-245)Online publication date: 1-Jul-2024
+https://dl.acm.org/doi/10.1145/3643834.3661555
+Ma YLi TZhou YYu LJin D(2024)Mitigating Energy Consumption in Heterogeneous Mobile Networks Through Data-Driven OptimizationIEEE Transactions on Network and Service Management10.1109/TNSM.2024.341694721:4(4369-4382)Online publication date: Aug-2024
+https://doi.org/10.1109/TNSM.2024.3416947
+Dwivedi RElluri L(2024)Exploring Generative Artificial Intelligence Research: A Bibliometric Analysis ApproachIEEE Access10.1109/ACCESS.2024.345062912(119884-119902)Online publication date: 2024
+https://doi.org/10.1109/ACCESS.2024.3450629
+Chen SZhang Y(2024)Implementation of Network Physical Traffic Estimation Model Using 6G Intelligent Traffic Monitoring and EstimationWireless Personal Communications10.1007/s11277-024-11154-8Online publication date: 16-May-2024
+https://doi.org/10.1007/s11277-024-11154-8
+Sun MSun L(2024)Harnessing the Power of 6G Connectivity for Advanced Big Data Analytics with Deep LearningWireless Personal Communications10.1007/s11277-024-11044-zOnline publication date: 30-May-2024
+https://doi.org/10.1007/s11277-024-11044-z
+Huang HWang YCai YWang H(2024)A novel approach for energy consumption management in cloud centers based on adaptive fuzzy neural systemsCluster Computing10.1007/s10586-024-04665-3Online publication date: 21-Jul-2024
+https://doi.org/10.1007/s10586-024-04665-3
+Zhang SLi THui SLi GLiang YYu LJin DLi YSingh ASun YAkoglu LGunopulos DYan XKumar ROzcan FYe J(2023)Deep Transfer Learning for City-scale Cellular Traffic Generation through Urban Knowledge GraphProceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining10.1145/3580305.3599801(4842-4851)Online publication date: 6-Aug-2023
+https://dl.acm.org/doi/10.1145/3580305.3599801
+View Options
+Get Access
+Login options
+
+Check if you have access through your login credentials or your institution to get full access on this article.
+
+Sign in
+Full Access
+Get this Publication
+View options
+PDF
+
+View or Download as a PDF file.
+
+PDF
+eReader
+
+View online with eReader.
+
+eReader
+Media
+Figures
+Other
+Tables
+Share
+Share
+Share this Publication link
+
+Copy Link
+Share on social media
+X
+LinkedIn
+Reddit
+Facebook
+email
+Download PDF
+View Table Of Contents
+Footer
+Categories
+Journals
+Magazines
+Books
+Proceedings
+SIGs
+Conferences
+Collections
+People
+About
+About ACM Digital Library
+ACM Digital Library Board
+Subscription Information
+Author Guidelines
+Using ACM Digital Library
+All Holdings within the ACM Digital Library
+ACM Computing Classification System
+Accessibility Statement
+Join
+Join ACM
+Join SIGs
+Subscribe to Publications
+Institutions and Libraries
+Connect
+Contact us via email
+ACM on Facebook
+ACM DL on X
+ACM on Linkedin
+Send Feedback
+Submit a Bug Report
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2024 ACM, Inc.
+Terms of UsagePrivacy PolicyCode of Ethics
+Feedback
+Powered by

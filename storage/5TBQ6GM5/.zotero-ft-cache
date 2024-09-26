@@ -1,0 +1,58 @@
+Skip to main content
+Computer Science > Computer Vision and Pattern Recognition
+arXiv:2111.10653 (cs)
+[Submitted on 20 Nov 2021]
+Real-time Human Detection Model for Edge Devices
+Ali Farouk Khalifa, Hesham N. Elmahdy, Eman Badr
+View PDF
+Building a small-sized fast surveillance system model to fit on limited resource devices is a challenging, yet an important task. Convolutional Neural Networks (CNNs) have replaced traditional feature extraction and machine learning models in detection and classification tasks. Various complex large CNN models are proposed that achieve significant improvement in the accuracy. Lightweight CNN models have been recently introduced for real-time tasks. This paper suggests a CNN-based lightweight model that can fit on a limited edge device such as Raspberry Pi. Our proposed model provides better performance time, smaller size and comparable accuracy with existing method. The model performance is evaluated on multiple benchmark datasets. It is also compared with existing models in terms of size, average processing time, and F-score. Other enhancements for future research are suggested.
+Comments:	19 pages 6 figures 9 Tables
+Subjects:	Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+Cite as:	arXiv:2111.10653 [cs.CV]
+ 	(or arXiv:2111.10653v1 [cs.CV] for this version)
+ 	
+https://doi.org/10.48550/arXiv.2111.10653
+Focus to learn more
+Submission history
+From: Ali Farouk Khalifa [view email]
+[v1] Sat, 20 Nov 2021 18:42:17 UTC (1,037 KB)
+
+Access Paper:
+View PDFOther Formats
+view license
+Current browse context: cs.CV
+< prev next >
+
+newrecent2021-11
+Change to browse by: cs cs.LG
+References & Citations
+NASA ADS
+Google Scholar
+Semantic Scholar
+DBLP - CS Bibliography
+listing | bibtex
+Export BibTeX Citation
+Bookmark
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer (What is the Explorer?)
+Litmaps Toggle
+Litmaps (What is Litmaps?)
+scite.ai Toggle
+scite Smart Citations (What are Smart Citations?)
+Code, Data, Media
+Demos
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax (What is MathJax?)
+About
+Help
+Contact
+Subscribe
+Copyright
+Privacy Policy
+Web Accessibility Assistance
+
+arXiv Operational Status 
+Get status notifications via email or slack

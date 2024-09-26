@@ -1,0 +1,59 @@
+Skip to main content
+Computer Science > Robotics
+arXiv:2209.07753 (cs)
+[Submitted on 16 Sep 2022 (v1), last revised 25 May 2023 (this version, v4)]
+Code as Policies: Language Model Programs for Embodied Control
+Jacky Liang, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng
+View PDF
+Large language models (LLMs) trained on code completion have been shown to be capable of synthesizing simple Python programs from docstrings [1]. We find that these code-writing LLMs can be re-purposed to write robot policy code, given natural language commands. Specifically, policy code can express functions or feedback loops that process perception outputs (e.g.,from object detectors [2], [3]) and parameterize control primitive APIs. When provided as input several example language commands (formatted as comments) followed by corresponding policy code (via few-shot prompting), LLMs can take in new commands and autonomously re-compose API calls to generate new policy code respectively. By chaining classic logic structures and referencing third-party libraries (e.g., NumPy, Shapely) to perform arithmetic, LLMs used in this way can write robot policies that (i) exhibit spatial-geometric reasoning, (ii) generalize to new instructions, and (iii) prescribe precise values (e.g., velocities) to ambiguous descriptions ("faster") depending on context (i.e., behavioral commonsense). This paper presents code as policies: a robot-centric formulation of language model generated programs (LMPs) that can represent reactive policies (e.g., impedance controllers), as well as waypoint-based policies (vision-based pick and place, trajectory-based control), demonstrated across multiple real robot platforms. Central to our approach is prompting hierarchical code-gen (recursively defining undefined functions), which can write more complex code and also improves state-of-the-art to solve 39.8% of problems on the HumanEval [1] benchmark. Code and videos are available at this https URL
+Subjects:	Robotics (cs.RO)
+Cite as:	arXiv:2209.07753 [cs.RO]
+ 	(or arXiv:2209.07753v4 [cs.RO] for this version)
+ 	
+https://doi.org/10.48550/arXiv.2209.07753
+Focus to learn more
+Submission history
+From: Jacky Liang [view email]
+[v1] Fri, 16 Sep 2022 07:17:23 UTC (9,117 KB)
+[v2] Mon, 19 Sep 2022 23:31:52 UTC (9,117 KB)
+[v3] Wed, 1 Mar 2023 04:02:50 UTC (9,117 KB)
+[v4] Thu, 25 May 2023 03:50:11 UTC (9,117 KB)
+
+Access Paper:
+View PDFTeX SourceOther Formats
+view license
+Current browse context: cs.RO
+< prev next >
+
+newrecent2022-09
+Change to browse by: cs
+References & Citations
+NASA ADS
+Google Scholar
+Semantic Scholar
+1 blog link (what is this?)
+Export BibTeX Citation
+Bookmark
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer (What is the Explorer?)
+Litmaps Toggle
+Litmaps (What is Litmaps?)
+scite.ai Toggle
+scite Smart Citations (What are Smart Citations?)
+Code, Data, Media
+Demos
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax (What is MathJax?)
+About
+Help
+Contact
+Subscribe
+Copyright
+Privacy Policy
+Web Accessibility Assistance
+
+arXiv Operational Status 
+Get status notifications via email or slack

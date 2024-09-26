@@ -1,0 +1,1006 @@
+Skip to main content
+Opens in a new tab
+Elsevier Logo
+Scopus Logo
+Document details - UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes
+1of1
+ Download
+ Print
+ Save to PDF
+ Add to List
+ Create bibliography
+Proceedings of the Annual International Conference on Mobile Computing and Networking, MOBICOMOpen AccessPages 736 - 7512023 29th Annual International Conference on Mobile Computing and Networking, MobiCom 2023Madrid2 October 2023through 6 October 2023Code 190704
+Document type
+Conference Paper• Hybrid Gold Open Access
+Source type
+Conference Proceedings
+ISSN
+15435679
+DOI
+10.1145/3570361.3613263
+View more
+UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes
+Pang, Weiwu
+a
+Send mail to Pang W.
+;
+Xia, Chunyu
+a
+Send mail to Xia C.
+;
+Leong, Branden
+a
+Send mail to Leong B.
+;
+Ahmad, Fawad
+b
+Send mail to Ahmad F.
+;
+Paek, Jeongyeup
+c
+Send mail to Paek J.
+;
+Govindan, Ramesh
+a
+Send mail to Govindan R.
+Save all to author list
+a University of Southern California, Los Angeles, 60029311, United States
+b Rochester Institute of Technology, Rochester, 60001777, United States
+c Chung-Ang University, Seoul, 60014237, South Korea
+Full text options
+Export
+Abstract
+
+Tracking the position and orientation, or pose, of a viewing device enables AR applications to accurately embed virtual content in physical spaces. Mobile OSs track pose by matching device camera images against street-level imagery. Thus, pose tracking is often unavailable at off-street pedestrian locations. UbiPose enables pose tracking at such locations using aerial meshes, generated from satellite imagery, that are likely to be more widely available at these locations. However, matching a camera image against an aerial mesh can be error-prone, even with modern neural matchers. These neural components are also compute-intensive. UbiPose contains a novel pose tracking pipeline that runs entirely on a mobile device using fast-path optimizations designed to accept or reject pose estimates in many cases, without sacrificing accuracy. Experiments on real-world traces show that it achieves tracking accuracy comparable to AR pose tracking in iOS in places where that is available, and is able to track pose accurately in places where it is not. © 2023 Owner/Author(s).
+
+Author keywords
+aerial mesh; augmented reality; outdoor pose estimation
+Indexed keywords
+SciVal Topics
+Learn about these Topics
+Metrics
+Funding details
+References (93)
+View in search results format 
+All Export  Print  E-mail  Save to PDF Create bibliography
+1
+	
+Ahmad, F., Qiu, H., Eells, R., Bai, F., Govindan, R.
+
+CarMap: Fast 3D feature map updates for automobiles
+
+(2020) Proceedings of the 17th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2020, pp. 1063-1081. Cited 48 times.
+ISBN: 978-193913313-7
+
+
+
+2
+	
+Alatise, M., Hancke, G.P.
+
+Pose estimation of a mobile robot using monocular vision and inertial sensors data
+
+(2017) 2017 IEEE AFRICON: Science, Technology and Innovation for Africa, AFRICON 2017, art. no. 8095713, pp. 1552-1557. Cited 5 times.
+ISBN: 978-153862775-4
+doi: 10.1109/AFRCON.2017.8095713
+
+View at Publisher
+
+
+3
+	
+Álvarez Márquez, J.O., Ziegler, J.
+
+In-Store Augmented Reality-Enabled Product Comparison and Recommendation
+
+(2020) RecSys 2020 - 14th ACM Conference on Recommender Systems, pp. 180-189. Cited 16 times.
+https://dl-acm-org.access.yonsei.ac.kr/citation.cfm?id=3383313
+ISBN: 978-145037583-2
+doi: 10.1145/3383313.3412266
+
+View at Publisher
+
+
+4
+	
+(2020) ARKit 4 GeoTracking
+Apple
+
+ 
+
+
+5
+	
+(2021) Apple Maps introduces new ways to explore major cities in 3D
+Apple
+
+ 
+
+
+6
+	
+(2023) Apple unveils M2, taking the breakthrough performance and capabilities of M1 even further
+Apple
+
+ 
+
+
+7
+	
+(2023) Apple Vision Pro. Cited 21 times.
+Apple
+
+ 
+
+
+8
+	
+(2023) Tracking geographic locations in AR
+Apple
+
+ 
+
+
+9
+	
+(2023) Understanding World Tracking
+Apple
+
+ 
+
+
+10
+	
+(2021) 
+Justino Beirne
+
+ 
+
+
+11
+	
+Besl, P.J., McKay, N.D.
+
+A Method for Registration of 3-D Shapes
+
+(1992) IEEE Transactions on Pattern Analysis and Machine Intelligence, 14 (2), pp. 239-256. Cited 14371 times.
+doi: 10.1109/34.121791
+
+View at Publisher
+
+
+12
+	
+(2023) Blender
+Blender
+
+ 
+
+
+13
+	
+Brachmann, E., Humenberger, M., Rother, C., Sattler, T.
+(2021) On the Limits of Pseudo Ground Truth in Visual Camera Re-localisation. Cited 31 times.
+https://doi-org-ssl.access.yonsei.ac.kr/10.48550/ARXIV.2109.00524
+
+ 
+
+
+14
+	
+Brachmann, E., Krull, A., Nowozin, S., Shotton, J., Michel, F., Gumhold, S., Rother, C.
+(2016) DSAC - Differentiable RANSAC for Camera Localization. Cited 69 times.
+https://doi-org-ssl.access.yonsei.ac.kr/10.48550/ARXIV.1611.05705
+
+ 
+
+
+15
+	
+Bradski, G.
+The opencv library
+(2000) Dr. Dobb's Journal of Software Tools (2000).. Cited 5472 times.
+
+ 
+
+
+16
+	
+Brahmbhatt, S., Gu, J., Kim, K., Hays, J., Kautz, J.
+
+Geometry-Aware Learning of Maps for Camera Localization
+
+(2018) Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, art. no. 8578375, pp. 2616-2625. Cited 294 times.
+ISBN: 978-153866420-9
+doi: 10.1109/CVPR.2018.00277
+
+View at Publisher
+
+
+17
+	
+Brejcha, J., Lukáč, M., Hold-Geoffroy, Y., Wang, O., Čadík, M.
+
+LandscapeAR: Large Scale Outdoor Augmented Reality by Matching Photographs with Terrain Models Using Learned Descriptors
+
+(2020) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 12374 LNCS, pp. 295-312. Cited 12 times.
+https://www-springer-com-ssl.access.yonsei.ac.kr/series/558
+ISBN: 978-303058525-9
+doi: 10.1007/978-3-030-58526-6_18
+
+View at Publisher
+
+
+18
+	
+(2023) Metropolitan and Micropolitan Statistical Areas Population Totals: 2020-2022. Cited 3 times.
+US Census Bureau
+
+ 
+
+
+19
+	
+Campos, C., Elvira, R., Rodriguez, J.J.G., Montiel, J.M.M., Tardos, J.D.
+
+ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial, and Multimap SLAM
+
+(2021) IEEE Transactions on Robotics, 37 (6), pp. 1874-1890. Cited 1861 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/RecentIssue.jsp?punumber=8860
+doi: 10.1109/TRO.2021.3075644
+
+View at Publisher
+
+
+20
+	
+Chen, H., Luo, Z., Zhou, L., Tian, Y., Zhen, M., Fang, T., McKinnon, D., (...), Quan, L.
+
+ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer
+
+(2022) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 13692 LNCS, pp. 20-36. Cited 44 times.
+https://www-springer-com-ssl.access.yonsei.ac.kr/series/558
+ISBN: 978-303119823-6
+doi: 10.1007/978-3-031-19824-3_2
+
+View at Publisher
+
+
+21
+	
+Chen, S., Wu, X., Mueller, M.W., Sreenath, K.
+
+Real-time Geo-localization Using Satellite Imagery and Topography for Unmanned Aerial Vehicles
+
+(2021) IEEE International Conference on Intelligent Robots and Systems, pp. 2275-2281. Cited 12 times.
+ISBN: 978-166541714-3
+doi: 10.1109/IROS51168.2021.9636705
+
+View at Publisher
+
+
+22
+	
+Choudhary, S., Narayanan, P.J.
+
+Visibility probability structure from SfM datasets and applications
+
+(2012) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 7576 LNCS (PART 5), pp. 130-143. Cited 27 times.
+ISBN: 978-364233714-7
+doi: 10.1007/978-3-642-33715-4_10
+
+View at Publisher
+
+
+23
+	
+Cruz, E., Orts-Escolano, S., Gomez-Donoso, F., Rizo, C., Rangel, J.C., Mora, H., Cazorla, M.
+
+An augmented reality application for improving shopping experience in large retail stores
+
+(2019) Virtual Reality, 23 (3), pp. 281-291. Cited 62 times.
+http://www.springeronline.com/sgw/cda/frontpage/0,11855,5-154-70-1127228-0,00.html
+doi: 10.1007/s10055-018-0338-3
+
+View at Publisher
+
+
+24
+	
+Detone, D., Malisiewicz, T., Rabinovich, A.
+
+SuperPoint: Self-supervised interest point detection and description
+
+(2018) IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops, 2018-June, art. no. 8575521, pp. 337-349. Cited 1467 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/conferences.jsp
+ISBN: 978-153866100-0
+doi: 10.1109/CVPRW.2018.00060
+
+View at Publisher
+
+
+25
+	
+(2021) ONNX Runtime developers. Cited 9 times.
+ONNX Runtime
+
+ 
+
+
+26
+	
+Dilger, D.
+(2017) Inside Apple's ARKit and Visual Inertial Odometry, new in iOS 11
+https://appleinsider.com/articles/17/10/12/insideapples-arkit-and-visual-inertial-odometry-new-in-ios-11
+
+ 
+
+
+27
+	
+DIng, M., Wang, Z., Sun, J., Shi, J., Luo, P.
+
+CamNet: Coarse-to-fine retrieval for camera re-localization
+
+(2019) Proceedings of the IEEE International Conference on Computer Vision, 2019-October, art. no. 9008579, pp. 2871-2880. Cited 98 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/conhome.jsp?punumber=1000149
+ISBN: 978-172814803-8
+doi: 10.1109/ICCV.2019.00296
+
+View at Publisher
+
+
+28
+	
+Durrant-Whyte, H., Bailey, T.
+
+Simultaneous localization and mapping: Part I
+
+(2006) IEEE Robotics and Automation Magazine, 13 (2), pp. 99-108. Cited 3500 times.
+doi: 10.1109/MRA.2006.1638022
+
+View at Publisher
+
+
+29
+	
+Dusmanu, M., Rocco, I., Pajdla, T., Pollefeys, M., Sivic, J., Torii, A., Sattler, T.
+
+D2-net: A trainable CNN for joint description and detection of local features
+
+(2019) Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2019-June, art. no. 8953622, pp. 8084-8093. Cited 680 times.
+ISBN: 978-172813293-8
+doi: 10.1109/CVPR.2019.00828
+
+View at Publisher
+
+
+30
+	
+Fischler, M.A., Bolles, R.C.
+
+Random sample consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography
+
+(1981) Communications of the ACM, 24 (6), pp. 381-395. Cited 20570 times.
+doi: 10.1145/358669.358692
+
+View at Publisher
+
+
+31
+	
+(2022) U.S. Space Force
+GPS performance
+
+ 
+
+
+32
+	
+Frumusanu, A.
+(2020) The iphone 12 and 12 pro review: New design and diminishing returns
+https://www.anandtech.com/show/16192/the-iphone-12-review/4
+
+ 
+
+
+33
+	
+Furukawa, Y., Hernández, C.
+
+Multi-view stereo: A tutorial
+
+(2015) Foundations and Trends in Computer Graphics and Vision, 9 (1-2), pp. 1-148. Cited 466 times.
+https://www-nowpublishers-com.access.yonsei.ac.kr/cgv
+doi: 10.1561/0600000052
+
+View at Publisher
+
+
+34
+	
+Giariskanis, F., Kritikos, Y., Protopapadaki, E., Papanastasiou, A., Papadopoulou, E., Mania, K.
+
+The Augmented Museum: A Multimodal, Game-Based, Augmented Reality Narrative for Cultural Heritage
+
+(2022) IMX 2022 - Proceedings of the 2022 ACM International Conference on Interactive Media Experiences, pp. 281-285. Cited 14 times.
+https://dl-acm-org.access.yonsei.ac.kr/citation.cfm?id=3505284
+ISBN: 978-145039212-9
+doi: 10.1145/3505284.3532967
+
+View at Publisher
+
+
+35
+	
+(2022) Google Earth updates
+Google
+https://gadgetsbeat.com/howoften-does-google-earth-update-photos-maps/
+
+ 
+
+
+36
+	
+(2022) Overview of arcore and supported development environments | google developers. Cited 4 times.
+Google
+
+ 
+
+
+37
+	
+(2023) Google Chrome. Cited 3 times.
+Google
+
+ 
+
+
+38
+	
+(2023) Google Earth. Cited 32 times.
+Google
+
+ 
+
+
+39
+	
+(2016) Census metropolitan areas (Canada)
+Statistics Canada Government of Canada
+https://www23.statcan.gc.ca/imdb/p3VD.pl?.Function=getVD&TVD=314312&CVD=314313&CPV=A&CST=01012016&CLV=1&MLV=3
+
+ 
+
+
+40
+	
+Hollemans, M.
+(2023) The Neural Engine - what do we know about it?.
+https://github.com/hollance/neural-engine
+
+ 
+
+
+41
+	
+Hu, Y., Pang, W., Liu, X., Ghosh, R., Ko, B., Lee, W.-H., Govindan, R.
+
+Rim: Offloading Inference to the Edge
+
+(2021) IoTDI 2021 - Proceedings of the 2021 International Conference on Internet-of-Things Design and Implementation, pp. 80-92. Cited 11 times.
+https://dl-acm-org.access.yonsei.ac.kr/citation.cfm?id=3450268
+ISBN: 978-145038354-7
+doi: 10.1145/3450268.3453521
+
+View at Publisher
+
+
+42
+	
+Humenberger, M., Cabon, Y., Guerin, N., Morat, J., Revaud, J., Rerole, P., Pion, N., (...), Csurka, G.
+(2020) Robust image retrieval-based visual localization using kapture. Cited 48 times.
+(2020).
+
+ 
+
+
+43
+	
+(2022) Street View: How it works
+Google Inc
+https://www.google.com/streetview/how-it-works/
+
+ 
+
+
+44
+	
+Javaheri, H., Mirzaei, M., Lukowicz, P.
+
+How far can wearable augmented reality influence customer shopping behavior
+
+(2020) ACM International Conference Proceeding Series, pp. 464-469. Cited 4 times.
+https://portal-acm-org.access.yonsei.ac.kr/
+ISBN: 978-145038840-5
+doi: 10.1145/3448891.3448930
+
+View at Publisher
+
+
+45
+	
+Jiang, N., Huang, D., Chen, J., Wen, J., Zhang, H., Chen, H.
+
+Semi-Direct Monocular Visual-Inertial Odometry Using Point and Line Features for IoV
+
+(2022) ACM Transactions on Internet Technology, 22 (1), art. no. 3432248. Cited 8 times.
+https://dl-acm-org.access.yonsei.ac.kr/citation.cfm?id=J780
+doi: 10.1145/3432248
+
+View at Publisher
+
+
+46
+	
+Kendall, A., Grimes, M., Cipolla, R.
+
+PoseNet: A convolutional network for real-time 6-dof camera relocalization
+
+(2015) Proceedings of the IEEE International Conference on Computer Vision, 2015 International Conference on Computer Vision, ICCV 2015, art. no. 7410693, pp. 2938-2946. Cited 1693 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/conhome.jsp?punumber=1000149
+ISBN: 978-146738391-2
+doi: 10.1109/ICCV.2015.336
+
+View at Publisher
+
+
+47
+	
+Kiriu, T., Mittal, M., Siriaraya, P., Kawai, Y., Nakajima, S.
+
+Development of an acoustic AR gamification system to support physical exercise (Open Access)
+
+(2019) MM 2019 - Proceedings of the 27th ACM International Conference on Multimedia, pp. 1056-1058. Cited 8 times.
+https://dl-acm-org.access.yonsei.ac.kr/citation.cfm?id=3343031
+ISBN: 978-145036889-6
+doi: 10.1145/3343031.3350589
+
+View at Publisher
+
+
+48
+	
+Krause, A.
+(2021) Google Maps has now photographed 10 million miles in Street View
+https://www.cnet.com/tech/tech-industry/googlemaps-has-now-photographed-10-million-miles-in-street-view/
+
+ 
+
+
+49
+	
+Lepetit, V., Moreno-Noguer, F., Fua, P.
+
+EPnP: An accurate O(n) solution to the PnP problem
+
+(2009) International Journal of Computer Vision, 81 (2), pp. 155-166. Cited 2488 times.
+doi: 10.1007/s11263-008-0152-6
+
+View at Publisher
+
+
+50
+	
+Li, Y., Snavely, N., Huttenlocher, D.P., Fua, P.
+
+Worldwide Pose Estimation Using 3D Point Clouds (Open Access)
+
+(2016) Advances in Computer Vision and Pattern Recognition, pp. 147-163. Cited 24 times.
+https://www-springer-com-ssl.access.yonsei.ac.kr/series/4205
+doi: 10.1007/978-3-319-25781-5_8
+
+View at Publisher
+
+
+51
+	
+Lowe, D.G.
+
+Distinctive image features from scale-invariant keypoints
+
+(2004) International Journal of Computer Vision, 60 (2), pp. 91-110. Cited 48508 times.
+doi: 10.1023/B:VISI.0000029664.99615.94
+
+View at Publisher
+
+
+52
+	
+Lynen, S., Zeisl, B., Aiger, D., Bosse, M., Hesch, J.A., Pollefeys, M., Siegwart, R., (...), Sattler, T.
+(2019) Large-scale, real-time visual-inertial localization revisited. Cited 4 times.
+CoRR abs/1907.00338 (2019)
+https://arxiv-org.access.yonsei.ac.kr/abs/1907.00338
+
+ 
+
+
+53
+	
+Maset, E., Arrigoni, F., Fusiello, A.
+
+Practical and Efficient Multi-view Matching
+
+(2017) Proceedings of the IEEE International Conference on Computer Vision, 2017-October, art. no. 8237751, pp. 4578-4586. Cited 48 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/conhome.jsp?punumber=1000149
+ISBN: 978-153861032-9
+doi: 10.1109/ICCV.2017.489
+
+View at Publisher
+
+
+54
+	
+Matl, M.
+(2022) Pyrender Documentation
+https://pyrender.readthedocs.io/en/latest/examples/index.html
+
+ 
+
+
+55
+	
+Michel, E.
+(2023) Map Model Importers
+https://github.com/eliemichel/MapsModelsImporter
+
+ 
+
+
+56
+	
+(2023) Streetside view
+Microsoft
+
+ 
+
+
+57
+	
+Moreau, A., Piasco, N., Tsishkou, D., Stanciulescu, B., de La Fortelle, A.
+
+LENS: Localization enhanced by NeRF synthesis
+
+(2021) Proceedings of Machine Learning Research, 164, pp. 1347-1356. Cited 37 times.
+https://proceedings.mlr.press/
+
+
+
+58
+	
+Muja, M., Lowe, D.G.
+Fast approximate nearest neighbors with automatic algorithm configuration
+(2009) VISAPP (1), 2 (331-340), p. 2. Cited 335 times.
+2009
+
+ 
+
+
+59
+	
+Ninan, S., Rathinam, S.
+(2022) LIDAR data based Segmentation and Localization using Open Street Maps for Rural Roads. Cited 2 times.
+[cs.RO]
+
+ 
+
+
+60
+	
+Ning, J., Xie, L., Li, Y., Chen, Y., Bu, Y., Ye, B., Lu, S.
+
+MoiréPose: Ultra High Precision Camera-To-Screen Pose Estimation based on Moiré Pattern
+
+(2022) Proceedings of the Annual International Conference on Mobile Computing and Networking, MOBICOM, pp. 106-119. Cited 5 times.
+ISBN: 978-145039181-8
+doi: 10.1145/3495243.3560537
+
+View at Publisher
+
+
+61
+	
+Noreikis, M., Xiao, Y., Ylä-Jääski, A.
+
+SeeNav: Seamless and energy-efficient indoor navigation using augmented reality
+
+(2017) Thematic Workshops 2017 - Proceedings of the Thematic Workshops of ACM Multimedia 2017, co-located with MM 2017, pp. 186-193. Cited 18 times.
+ISBN: 978-145035416-5
+doi: 10.1145/3126686.3126733
+
+View at Publisher
+
+
+62
+	
+(2022) The NVIDIA Jetson Xavier NX. Cited 3 times.
+NVIDIA
+
+ 
+
+
+63
+	
+(2023) NVIDIA TensorRT. Cited 10 times.
+NVIDIA
+
+ 
+
+
+64
+	
+Odenigbo, I.P., Reen, J.K., Eneze, C., Friday, A., Orji, R.
+
+The Journey: An AR Gamified Mobile Application for Promoting Physical Activity in Young Adults
+
+(2022) UMAP2022 - Adjunct Proceedings of the 30th ACM Conference on User Modeling, Adaptation and Personalization, pp. 342-353. Cited 4 times.
+https://dl-acm-org.access.yonsei.ac.kr/citation.cfm?id=3511047
+ISBN: 978-145039232-7
+doi: 10.1145/3511047.3537652
+
+View at Publisher
+
+
+65
+	
+(2023) OptiTrack Documentation
+OptiTrack
+
+ 
+
+
+66
+	
+(2023) Quick Start Guide: Getting Started - OptiTrack Documentation
+OptiTrack
+
+ 
+
+
+67
+	
+Panek, V., Kukelova, Z., Sattler, T.
+
+MeshLoc: Mesh-Based Visual Localization (Open Access)
+
+(2022) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 13682 LNCS, pp. 589-609. Cited 14 times.
+https://www-springer-com-ssl.access.yonsei.ac.kr/series/558
+ISBN: 978-303120046-5
+doi: 10.1007/978-3-031-20047-2_34
+
+View at Publisher
+
+
+68
+	
+Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., Killeen, T., (...), Chintala, S.
+
+PyTorch: An imperative style, high-performance deep learning library (Open Access)
+
+(2019) Advances in Neural Information Processing Systems, 32. Cited 23823 times.
+https://papers.nips.cc/
+
+
+
+69
+	
+Platinsky, L., Szabados, M., Hlasek, F., Hemsley, R., Pero, L.D., Pancik, A., Baum, B., (...), Ondruska, P.
+
+Collaborative Augmented Reality on Smartphones via Life-long City-scale Maps (Open Access)
+
+(2020) Proceedings - 2020 IEEE International Symposium on Mixed and Augmented Reality, ISMAR 2020, art. no. 9284751, pp. 533-541. Cited 16 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/mostRecentIssue.jsp?punumber=9284405
+ISBN: 978-172818508-8
+doi: 10.1109/ISMAR50242.2020.00081
+
+View at Publisher
+
+
+70
+	
+Rocha, S., Lopes, A.
+
+Navigation based application with augmented reality and accessibility (Open Access)
+
+(2020) Conference on Human Factors in Computing Systems - Proceedings, art. no. 3383004. Cited 15 times.
+ISBN: 978-145036819-3
+doi: 10.1145/3334480.3383004
+
+View at Publisher
+
+
+71
+	
+Rublee, E., Rabaud, V., Konolige, K., Bradski, G.
+
+ORB: An efficient alternative to SIFT or SURF
+
+(2011) Proceedings of the IEEE International Conference on Computer Vision, art. no. 6126544, pp. 2564-2571. Cited 8960 times.
+ISBN: 978-145771101-5
+doi: 10.1109/ICCV.2011.6126544
+
+View at Publisher
+
+
+72
+	
+Sarlin, P.-E., Cadena, C., Siegwart, R., Dymczyk, M.
+
+From coarse to fine: Robust hierarchical localization at large scale
+
+(2019) Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2019-June, art. no. 8953492, pp. 12708-12717. Cited 530 times.
+ISBN: 978-172813293-8
+doi: 10.1109/CVPR.2019.01300
+
+View at Publisher
+
+
+73
+	
+Sarlin, P.-E., Debraine, F., Dymczyk, M., Siegwart, R., Cadena, C.
+
+Leveraging Deep Visual Descriptors for Hierarchical Efficient Localization (Open Access)
+
+(2018) Proceedings of Machine Learning Research, 87, pp. 456-465. Cited 49 times.
+https://proceedings.mlr.press/
+
+
+
+74
+	
+Sarlin, P.-E., Detone, D., Malisiewicz, T., Rabinovich, A.
+
+SuperGlue: Learning Feature Matching with Graph Neural Networks
+
+(2020) Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, art. no. 9157489, pp. 4937-4946. Cited 1354 times.
+doi: 10.1109/CVPR42600.2020.00499
+
+View at Publisher
+
+
+75
+	
+Schall, G., Wagner, D., Reitmayr, G., Taichmann, E., Wieser, M., Schmalstieg, D., Hofmann-Wellenhof, B.
+
+Global pose estimation using multi-sensor fusion for outdoor augmented reality (Open Access)
+
+(2009) Science and Technology Proceedings - IEEE 2009 International Symposium on Mixed and Augmented Reality, ISMAR 2009, art. no. 5336489, pp. 153-162. Cited 93 times.
+ISBN: 978-142445390-0
+doi: 10.1109/ISMAR.2009.5336489
+
+View at Publisher
+
+
+76
+	
+Schonberger, J.L., Frahm, J.-M.
+
+Structure-from-Motion Revisited (Open Access)
+
+(2016) Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2016-December, art. no. 7780814, pp. 4104-4113. Cited 3553 times.
+ISBN: 978-146738850-4
+doi: 10.1109/CVPR.2016.445
+
+View at Publisher
+
+
+77
+	
+(2023) SensorLog
+SensorLog
+
+ 
+
+
+78
+	
+Shavit, Y., Ferens, R., Keller, Y.
+
+Learning Multi-Scene Absolute Pose Regression with Transformers
+
+(2021) Proceedings of the IEEE International Conference on Computer Vision, pp. 2713-2722. Cited 54 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/conhome.jsp?punumber=1000149
+ISBN: 978-166542812-5
+doi: 10.1109/ICCV48922.2021.00273
+
+View at Publisher
+
+
+79
+	
+Shavit, Y., Keller, Y.
+
+Camera Pose Auto-encoders for Improving Pose Regression
+
+(2022) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 13670 LNCS, pp. 140-157. Cited 4 times.
+https://www-springer-com-ssl.access.yonsei.ac.kr/series/558
+ISBN: 978-303120079-3
+doi: 10.1007/978-3-031-20080-9_9
+
+View at Publisher
+
+
+80
+	
+Singh, A.K., Liu, J., Tirado Cortes, C.A., Lin, C.-T.
+
+Virtual Global Landmark: An Augmented Reality Technique to Improve Spatial Navigation Learning
+
+(2021) Conference on Human Factors in Computing Systems - Proceedings. Cited 20 times.
+ISBN: 978-145038095-9
+doi: 10.1145/3411763.3451634
+
+View at Publisher
+
+  Pang, W.; University of Southern California, Los Angeles, United States; email:weiwupan@usc.edu
+© Copyright 2024 Elsevier B.V., All rights reserved.
+
+1of1
+ Top of page
+Cited by 0 documents
+Inform me when this document is cited in Scopus:
+Set citation alert 
+Related documents
+DLALoc: Deep-Learning Accelerated Visual Localization Based on Mesh Representation
+Zhang, P. , Liu, W.
+(2023) Applied Sciences (Switzerland)
+Combining Scene Coordinate Regression and Absolute Pose Regression for Visual Relocalization
+Ruan, J. , He, L. , Guan, Y.
+(2023) Proceedings - IEEE International Conference on Robotics and Automation
+CLoc: Confident Initial Estimation of Long-Term Visual Localization Using a Few Sequential Images in Large-Scale Spaces
+Kim, J. , Hyeon, J. , Choi, H.
+(2023) IEEE Sensors Journal
+View all related documents based on references
+
+Find more related documents in Scopus based on:
+Authors 
+Keywords 
+About Scopus
+What is Scopus
+Learn more about Scopus (opens in a new window)
+Content coverage
+Learn more about Scopus' content coverage (opens in a new window)
+Scopus blog
+Read the Scopus Blog (opens in a new window)
+Scopus API
+Learn more about Scopus API's (opens in a new window)
+Privacy matters
+View privacy matters page (opens in a new window)
+Language
+日本語版を表示する
+日本語版を表示する
+查看简体中文版本
+查看简体中文版本
+查看繁體中文版本
+查看繁體中文版本
+Просмотр версии на русском языке
+Просмотр версии на русском языке
+Customer Service
+Help
+View Scopus help files (opens in a new window)
+Tutorials
+Select to view tutorials (opens in a new window)
+Contact us
+Contact us (opens in a new window)
+Go to the Elsevier site (opens in a new window)
+Terms and conditions
+View the terms and conditions of Elsevier (opens in a new window)
+Privacy policy
+View the privacy policy of Elsevier (opens in a new window)
+All content on this site: Copyright © 2024 Elsevier B.V.
+Go to the Elsevier site (opens in a new window)
+, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.
+We use cookies to help provide and enhance our service and tailor content.By continuing, you agree to the use of cookies
+See Cookie details (opens in a new window)
+.
+Go to RELX Group Homepage (Opens in a new window)

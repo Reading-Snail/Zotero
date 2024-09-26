@@ -1,0 +1,85 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate
+arxiv logo > cs > arXiv:2308.15272
+
+Help | Advanced Search
+Search
+Computer Science > Artificial Intelligence
+(cs)
+[Submitted on 29 Aug 2023 ( v1 ), last revised 9 Mar 2024 (this version, v4)]
+Title: AutoDroid: LLM-powered Task Automation in Android
+Authors: Hao Wen , Yuanchun Li , Guohong Liu , Shanhui Zhao , Tao Yu , Toby Jia-Jun Li , Shiqi Jiang , Yunhao Liu , Yaqin Zhang , Yunxin Liu
+View a PDF of the paper titled AutoDroid: LLM-powered Task Automation in Android, by Hao Wen and 9 other authors
+View PDF HTML (experimental)
+
+    Abstract: Mobile task automation is an attractive technique that aims to enable voice-based hands-free user interaction with smartphones. However, existing approaches suffer from poor scalability due to the limited language understanding ability and the non-trivial manual efforts required from developers or end-users. The recent advance of large language models (LLMs) in language understanding and reasoning inspires us to rethink the problem from a model-centric perspective, where task preparation, comprehension, and execution are handled by a unified language model. In this work, we introduce AutoDroid, a mobile task automation system capable of handling arbitrary tasks on any Android application without manual efforts. The key insight is to combine the commonsense knowledge of LLMs and domain-specific knowledge of apps through automated dynamic analysis. The main components include a functionality-aware UI representation method that bridges the UI with the LLM, exploration-based memory injection techniques that augment the app-specific domain knowledge of LLM, and a multi-granularity query optimization module that reduces the cost of model inference. We integrate AutoDroid with off-the-shelf LLMs including online GPT-4/GPT-3.5 and on-device Vicuna, and evaluate its performance on a new benchmark for memory-augmented Android task automation with 158 common tasks. The results demonstrated that AutoDroid is able to precisely generate actions with an accuracy of 90.9%, and complete tasks with a success rate of 71.3%, outperforming the GPT-4-powered baselines by 36.4% and 39.7%. The demo, benchmark suites, and source code of AutoDroid will be released at url{ this https URL }. 
+
+Comments: 	Published in MobiCom 2024; Original title: "Empowering LLM to use Smartphone for Intelligent Task Automation"
+Subjects: 	Artificial Intelligence (cs.AI) ; Software Engineering (cs.SE)
+Cite as: 	arXiv:2308.15272 [cs.AI]
+  	(or arXiv:2308.15272v4 [cs.AI] for this version)
+  	https://doi.org/10.48550/arXiv.2308.15272
+Focus to learn more
+arXiv-issued DOI via DataCite
+Submission history
+From: Hao Wen [ view email ]
+[v1] Tue, 29 Aug 2023 13:02:30 UTC (6,502 KB)
+[v2] Wed, 6 Sep 2023 14:14:04 UTC (6,502 KB)
+[v3] Sat, 9 Sep 2023 14:08:32 UTC (6,502 KB)
+[v4] Sat, 9 Mar 2024 09:38:51 UTC (6,520 KB)
+Full-text links:
+Access Paper:
+
+    View a PDF of the paper titled AutoDroid: LLM-powered Task Automation in Android, by Hao Wen and 9 other authors
+    View PDF
+    HTML (experimental)
+    TeX Source
+    Other Formats 
+
+view license
+Current browse context:
+cs.AI
+< prev   |   next >
+new | recent | 2023-08
+Change to browse by:
+cs
+cs.SE
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+a export BibTeX citation Loading...
+Bookmark
+BibSonomy logo Reddit logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Litmaps Toggle
+Litmaps ( What is Litmaps? )
+scite.ai Toggle
+scite Smart Citations ( What are Smart Citations? )
+Code, Data, Media
+Demos
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+

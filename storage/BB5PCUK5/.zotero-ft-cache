@@ -1,0 +1,80 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate
+arxiv logo > cs > arXiv:2402.01049
+
+Help | Advanced Search
+Search
+Computer Science > Computer Vision and Pattern Recognition
+(cs)
+[Submitted on 1 Feb 2024]
+Title: IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition
+Authors: Zikang Leng , Amitrajit Bhattacharjee , Hrudhai Rajasekhar , Lizhe Zhang , Elizabeth Bruda , Hyeokhyen Kwon , Thomas Plötz
+View a PDF of the paper titled IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition, by Zikang Leng and 6 other authors
+View PDF HTML (experimental)
+
+    Abstract: One of the primary challenges in the field of human activity recognition (HAR) is the lack of large labeled datasets. This hinders the development of robust and generalizable models. Recently, cross modality transfer approaches have been explored that can alleviate the problem of data scarcity. These approaches convert existing datasets from a source modality, such as video, to a target modality (IMU). With the emergence of generative AI models such as large language models (LLMs) and text-driven motion synthesis models, language has become a promising source data modality as well as shown in proof of concepts such as IMUGPT. In this work, we conduct a large-scale evaluation of language-based cross modality transfer to determine their effectiveness for HAR. Based on this study, we introduce two new extensions for IMUGPT that enhance its use for practical HAR application scenarios: a motion filter capable of filtering out irrelevant motion sequences to ensure the relevance of the generated virtual IMU data, and a set of metrics that measure the diversity of the generated data facilitating the determination of when to stop generating virtual IMU data for both effective and efficient processing. We demonstrate that our diversity metrics can reduce the effort needed for the generation of virtual IMU data by at least 50%, which open up IMUGPT for practical use cases beyond a mere proof of concept. 
+
+Subjects: 	Computer Vision and Pattern Recognition (cs.CV)
+Cite as: 	arXiv:2402.01049 [cs.CV]
+  	(or arXiv:2402.01049v1 [cs.CV] for this version)
+  	https://doi.org/10.48550/arXiv.2402.01049
+Focus to learn more
+arXiv-issued DOI via DataCite
+Submission history
+From: Zikang Leng [ view email ]
+[v1] Thu, 1 Feb 2024 22:37:33 UTC (3,869 KB)
+Full-text links:
+Access Paper:
+
+    View a PDF of the paper titled IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition, by Zikang Leng and 6 other authors
+    View PDF
+    HTML (experimental)
+    TeX Source
+    Other Formats 
+
+view license
+Current browse context:
+cs.CV
+< prev   |   next >
+new | recent | 2024-02
+Change to browse by:
+cs
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+a export BibTeX citation Loading...
+Bookmark
+BibSonomy logo Reddit logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Litmaps Toggle
+Litmaps ( What is Litmaps? )
+scite.ai Toggle
+scite Smart Citations ( What are Smart Citations? )
+Code, Data, Media
+Demos
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+

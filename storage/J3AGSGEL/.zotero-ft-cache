@@ -1,0 +1,941 @@
+Skip to main content
+Opens in a new tab
+Elsevier Logo
+Scopus Logo
+Document details - Sign-to-911: Emergency Call Service for Sign Language Users with Assistive AR Glasses
+1of1
+ Download
+ Print
+ Save to PDF
+ Add to List
+ Create bibliography
+Proceedings of the Annual International Conference on Mobile Computing and Networking, MOBICOMOpen AccessPages 691 - 7052023 29th Annual International Conference on Mobile Computing and Networking, MobiCom 2023Madrid2 October 2023through 6 October 2023Code 190704
+Document type
+Conference Paper• Hybrid Gold Open Access
+Source type
+Conference Proceedings
+ISSN
+15435679
+DOI
+10.1145/3570361.3613260
+View more
+Sign-to-911: Emergency Call Service for Sign Language Users with Assistive AR Glasses
+Guo, Yunqi
+a
+Send mail to Guo Y.
+;
+Zhao, Jinghao
+a
+Send mail to Zhao J.
+;
+Ding, Boyan
+a
+Send mail to Ding B.
+;
+Tan, Congkai
+a
+Send mail to Tan C.
+;
+Ling, Weichong
+a
+Send mail to Ling W.
+;
+Tan, Zhaowei
+b
+Send mail to Tan Z.
+;
+Miyaki, Jennifer
+c
+Send mail to Miyaki J.
+;
+Du, Hongzhe
+a
+Send mail to Du H.
+;
+Lu, Songwu
+a
+Send mail to Lu S.
+Save all to author list
+a Ucla Computer Science Department, Los Angeles, CA, United States
+b Uc Riverside, Riverside, 60029526, CA, United States
+c Ucla Linguistics Department, Los Angeles, 60027550, CA, United States
+289th percentile
+Citations in Scopus
+2.47
+FWCI
+FWCI
+View all metrics
+Full text options
+Export
+Abstract
+
+Sign-to-911 offers a compact mobile system solution to fast and runtime American Sign Language (ASL) and English translations. It is designated as 911 call services for ASL users with hearing disabilities upon emergencies. It enables bidirectional translations of ASL-to-English and English-to-ASL. The signer wears the AR glasses, runs Sign-to-911 on his/her smartphone and glasses, and interacts with a 911 operator. The design of Sign-to-911 departs from the popular deep learning based solution paradigm, and adopts simpler traditional AI/machine learning (ML) models. The key is to exploit ASL linguistic features to simplify the model structures and improve accuracy and speed. It further leverages recent component solutions from graphics, vision, natural language processing, and AI/ML. Our evaluation with six ASL signers and 911 call records has confirmed its viability. © 2023 Owner/Author(s).
+
+Author keywords
+911; American sign language; AR glasses; emergency call; mobile AI; mobile AR system; sign language translation
+Indexed keywords
+SciVal Topics
+Learn about these Topics
+Metrics
+Funding details
+References (77)
+View in search results format 
+All Export  Print  E-mail  Save to PDF Create bibliography
+1
+	
+Accessed: 2022-11- 29.
+Accessibility service
+
+ 
+
+
+2
+	
+Ahmed, M.A., Zaidan, B.B., Zaidan, A.A., Salih, M.M., Lakulu, M.M.B.
+
+A review on systems-based sensory gloves for sign language recognition state of the art between 2007 and 2017
+
+(2018) Sensors (Switzerland), 18 (7), art. no. 2208. Cited 177 times.
+www.mdpi.com/1424-8220/18/7/2208/pdf
+doi: 10.3390/s18072208
+
+View at Publisher
+
+
+3
+	
+Andersson, C., Nilsson, I., Olsson, P., Slot, G., Sörensen, J., Liechty, D., Hunter, R., (...), Box, M.
+(2001) Rfcomm with ts 07.10
+
+ 
+
+
+4
+	
+(2023) Android camera api
+Mar
+https://developer.android.com/guide/topics/media/camera
+
+ 
+
+
+5
+	
+(2023) Android (go edition)
+Mar
+https://www.android.com/versions/go-edition/
+
+ 
+
+
+6
+	
+(2023) Android mediacodec
+Mar
+https://developer.android.com/reference/android/media/MediaCodec
+
+ 
+
+
+7
+	
+(2023) Android motion sensors
+Mar
+https://developer.android.com/guide/topics/sensors/sensors_motion
+
+ 
+
+
+8
+	
+(2023) Android texttospeech
+Mar
+https://developer.android.com/reference/android/speech/tts/TextToSpeech
+
+ 
+
+
+9
+	
+Accessed: 2023-03-09.
+Andronix app
+
+ 
+
+
+10
+	
+(2023) Asl translator
+Mar
+https://apps.apple.com/us/app/asl-translator/id421784745?correlationId=fc9f5193-5430-4cf1-8249-0b7052ee005c
+
+ 
+
+
+11
+	
+Bandukda, M., Holloway, C.
+
+Audio AR to support nature connectedness in people with visual disabilities
+
+(2020) UbiComp/ISWC 2020 Adjunct - Proceedings of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2020 ACM International Symposium on Wearable Computers, pp. 204-207. Cited 13 times.
+https://dl-acm-org.access.yonsei.ac.kr/citation.cfm?id=3410530
+ISBN: 978-145038076-8
+doi: 10.1145/3410530.3414332
+
+View at Publisher
+
+
+12
+	
+Bazarevsky, V., Grishchenko, I., Raveendran, K., Zhu, T., Zhang, F., Grundmann, M.
+(2020) Blazepose: On-device real-time body pose tracking. Cited 436 times.
+
+ 
+
+
+13
+	
+Bird, S., Klein, E., Loper, E.
+Natural language processing with Python: Analyzing text with the natural language toolkit
+(2009) O'Reilly Media, Inc.". Cited 110 times.
+
+ 
+
+
+14
+	
+Cephei, A.
+(2022) Vosk offline speech recognition api.. Cited 12 times.
+Accessed: -11-29.
+https://alphacephei.com/vosk/
+
+ 
+
+
+15
+	
+Chirico, M.
+(2022) Emergency - 911 calls
+Accessed: -11-29.
+https://www.kaggle.com/datasets/mchirico/montcoalert
+
+ 
+
+
+16
+	
+(2023) 
+Commission, F. C. Accessed: 2023-07-30.
+Real-time text (rtt)
+
+ 
+
+
+17
+	
+(2023) Commission, F. C. Telecommunications relay service (trs)
+Accessed: 2023-07-30.
+https://www.fcc.gov/consumers/guides/telecommunications-relayservice-trs
+
+ 
+
+
+18
+	
+(2023) Commission, F. C. Text to 911: What you need to know
+Accessed: 2023-07-30.
+https://www.fcc.gov/consumers/guides/what-you-need-knowabout-text-911
+
+ 
+
+
+19
+	
+Coulter, G.R.
+(2014) Current Issues in ASL Phonology: Phonetics and Phonology, 3. Cited 29 times.
+Vol. 3. Academic Press
+
+ 
+
+
+20
+	
+Department, E. P. 9-1-1 call scripts. Accessed: 2022-11-20.
+https://www.eugene-or.gov/2892/9-1-1-Call-Scripts
+
+ 
+
+
+21
+	
+Dick, E.
+(2021) Current and potential uses of ar/vr for equity and inclusion. Cited 16 times.
+Tech. rep., Information Technology and Innovation Foundation
+
+ 
+
+
+22
+	
+ElKoura, G., Singh, K.
+
+Handrix: Animating the human hand
+
+(2003) Proceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA 2003, pp. 110-119+369. Cited 214 times.
+https://dl-acm-org.access.yonsei.ac.kr/citation.cfm?id=846276
+ISBN: 1581136595; 978-158113659-3
+
+
+
+23
+	
+Fang, B., Co, J., Zhang, M.
+
+DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation
+
+(2017) SenSys 2017 - Proceedings of the 15th ACM Conference on Embedded Networked Sensor Systems, 2017-January. Cited 77 times.
+ISBN: 978-145035459-2
+doi: 10.1145/3131672.3131693
+
+View at Publisher
+
+
+24
+	
+Friedman, L.A.
+(1976) Phonology of a soundless language: phonological structure of the American sign language. Cited 35 times.
+University of California, Berkeley
+
+ 
+
+
+25
+	
+Filament
+11 2022.
+Google
+
+ 
+
+
+26
+	
+(2023) Hand talk: Your website accessible in asl
+Jan
+https://www.handtalk.me/en/
+
+ 
+
+
+27
+	
+Hanke, T.
+Hamnosys-representing sign language data in language resources and language processing contexts
+(2004) LREC, 4, pp. 1-6. Cited 195 times.
+
+ 
+
+
+28
+	
+Hastie, T., Tibshirani, R., Friedman, J.H., Friedman, J.H.
+(2009) The elements of statistical learning: data mining, inference, and prediction, 2. Cited 46100 times.
+Springer
+
+ 
+
+
+29
+	
+(2023) Homonyms in sign language
+Mar
+https://www.handspeak.com/learn/209
+
+ 
+
+
+30
+	
+Hou, J., Wang, Y., Li, X.-Y., Qian, J., Zhu, P., Wang, Z., Yang, P.
+
+SignSpeaker: A real-time, high-precision smartwatch-based sign language translator
+
+(2019) Proceedings of the Annual International Conference on Mobile Computing and Networking, MOBICOM. Cited 66 times.
+ISBN: 978-145036169-9
+doi: 10.1145/3300061.3300117
+
+View at Publisher
+
+
+31
+	
+(2023) 
+Mar
+Inmo air
+
+ 
+
+
+32
+	
+(2023) 
+Mar
+Insta 360 go 2
+
+ 
+
+
+33
+	
+Jiang, S., Sun, B., Wang, L., Bai, Y., Li, K., Fu, Y.
+
+Skeleton aware multi-modal sign language recognition
+
+(2021) IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops, pp. 3408-3418. Cited 124 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/conferences.jsp
+ISBN: 978-166544899-4
+doi: 10.1109/CVPRW53098.2021.00380
+
+View at Publisher
+
+
+34
+	
+Jin, Y., Gao, Y., Zhu, Y., Wang, W., Li, J., Choi, S., Li, Z., (...), Jin, Z.
+
+SonicASL: An Acoustic-based Sign Language Gesture Recognizer Using Earphones
+
+(2021) Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 5 (2), art. no. 3463519. Cited 28 times.
+https://dl-acm-org-ssl.access.yonsei.ac.kr/pub.cfm?id=J1566&CFID=818762994&CFTOKEN=30473978
+doi: 10.1145/3463519
+
+View at Publisher
+
+
+35
+	
+Koehn, P.
+
+Statistical machine translation
+
+(2009) Statistical Machine Translation, 9780521874151, pp. 1-433. Cited 527 times.
+https://dx-doi-org.access.yonsei.ac.kr/10.1017/CBO9780511815829
+ISBN: 978-051181582-9; 978-052187415-1
+doi: 10.1017/CBO9780511815829
+
+View at Publisher
+
+
+36
+	
+Li, D., Opazo, C.R., Yu, X., Li, H.
+
+Word-level deep sign language recognition from video: A new large-scale dataset and methods comparison
+
+(2020) Proceedings - 2020 IEEE Winter Conference on Applications of Computer Vision, WACV 2020, art. no. 9093512, pp. 1448-1458. Cited 295 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/mostRecentIssue.jsp?punumber=9087828
+ISBN: 978-172816553-0
+doi: 10.1109/WACV45572.2020.9093512
+
+View at Publisher
+
+
+37
+	
+Liddell, S.K.
+
+Grammar, gesture, and meaning in American sign Language
+
+(2003) Grammar, Gesture, and Meaning in American Sign Language, pp. 1-384. Cited 766 times.
+https://dx-doi-org.access.yonsei.ac.kr/10.1017/CBO9780511615054
+ISBN: 978-051161505-4; 978-052181620-5
+doi: 10.1017/CBO9780511615054
+
+View at Publisher
+
+
+38
+	
+Liddell, S.K., Johnson, R.E.
+American sign language: The phonological base
+(1989) Sign language studies, 64 (1), pp. 195-277. Cited 454 times.
+
+ 
+
+
+39
+	
+MacHacek, D., Zilinec, M., Bojar, O.
+(2021) Lost in interpreting: Speech translation from source or interpreter?. Cited 2 times.
+
+ 
+
+
+40
+	
+MacKenzie, C.L., Iberall, T.
+(1994) The grasping hand. Cited 366 times.
+Elsevier
+
+ 
+
+
+41
+	
+Accessed: 2022-11-29.
+Manifest.permission
+
+ 
+
+
+42
+	
+(2023) Mediapipe framework on android
+Mar
+https://developers.google.com/mediapipe/framework/getting_started/android
+
+ 
+
+
+43
+	
+Mitchell, R.E., Young, T.A., Bachleda, B., Karchmer, M.A.
+
+How many people use ASL in the United States?: Why estimates need updating
+
+(2006) Sign Language Studies, 6 (3), pp. 306-335+355-356. Cited 219 times.
+https://muse-jhu-edu.access.yonsei.ac.kr/journals/sign_language_studies/
+doi: 10.1353/sls.2006.0019
+
+View at Publisher
+
+
+44
+	
+News, C.
+(2022) Captioned smart glasses let deaf people see, rewind conversations
+Accessed: 2023-07-30.
+https://www.cbsnews.com/miami/news/captioned-smartglasses-let-deaf-people-see-rewind-conversations/
+
+ 
+
+
+45
+	
+(2023) Quick statistics about hearing. Cited 3 times.
+Mar on Deafness N. I. and Disorders O. C.
+https://www.nidcd.nih.gov/health/statistics/quick-statisticshearing
+
+ 
+
+
+46
+	
+(2020) OpenAI. 71 pct police involved shooting 911 transcript 4/4/2018
+Accessed: 2023-02-25.
+https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/911-transcripts-police-involved-shooting-040418.pdf
+
+ 
+
+
+47
+	
+(2020) OpenAI. Transcript of 911 call placed by jason ravnsborg on saturday
+september 12, 2020. Accessed: 2023-02-25.
+https://dps.sd.gov/application/files/7216/0260/1522/911-call-transcribed.pdf
+
+ 
+
+
+48
+	
+(2022) chatgpt
+Accessed: 2023- 02-29.
+OpenAI
+
+ 
+
+
+49
+	
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., (...), Duchesnay, É.
+
+Scikit-learn: Machine learning in Python
+
+(2011) Journal of Machine Learning Research, 12, pp. 2825-2830. Cited 59964 times.
+https://jmlr-csail-mit-edu.access.yonsei.ac.kr/papers/volume12/pedregosa11a/pedregosa11a.pdf
+
+View at Publisher
+
+
+50
+	
+Pennec, X.
+(1998) Computing the mean of geometric features application to the mean rotation. Cited 45 times.
+PhD thesis, INRIA
+
+ 
+
+
+51
+	
+Ar glasses transcribe and display spoken language for hearing impaired. Accessed: 2023-06-20.
+PlasticsToday
+
+ 
+
+
+52
+	
+Salvador, S., Chan, P.
+
+Toward accurate dynamic time warping in linear time and space
+
+(2007) Intelligent Data Analysis, 11 (5), pp. 561-580. Cited 1208 times.
+http://www.iospress.nl
+doi: 10.3233/ida-2007-11508
+
+View at Publisher
+
+
+53
+	
+Saunders, B., Camgoz, N.C., Bowden, R.
+
+Progressive Transformers for End-to-End Sign Language Production
+
+(2020) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 12356 LNCS, pp. 687-705. Cited 48 times.
+https://www-springer-com-ssl.access.yonsei.ac.kr/series/558
+ISBN: 978-303058620-1
+doi: 10.1007/978-3-030-58621-8_40
+
+View at Publisher
+
+
+54
+	
+Sehyr, Z.S., Caselli, N., Cohen-Goldberg, A.M., Emmorey, K.
+
+The ASL-LEX 2.0 Project: A Database of Lexical and Phonological Properties for 2,723 Signs in American Sign Language
+
+(2021) Journal of Deaf Studies and Deaf Education, 26 (2), pp. 263-277. Cited 50 times.
+https://jdsde-oxfordjournals-org.access.yonsei.ac.kr/
+doi: 10.1093/deafed/enaa038
+
+View at Publisher
+
+
+55
+	
+Shao, Q., Sniffen, A., Blanchet, J., Hillis, M.E., Shi, X., Haris, T.K., Liu, J., (...), Balkcom, D.
+
+Teaching American Sign Language in Mixed Reality
+
+(2020) Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4 (4), art. no. 3432211. Cited 23 times.
+https://dl-acm-org-ssl.access.yonsei.ac.kr/pub.cfm?id=J1566&CFID=818762994&CFTOKEN=30473978
+doi: 10.1145/3432211
+
+View at Publisher
+
+
+56
+	
+Shi, B., Del Rio, A.M., Keane, J., Michaux, J., Brentari, D., Shakhnarovich, G., Livescu, K.
+
+American Sign Language Fingerspelling Recognition in the Wild
+
+(2018) 2018 IEEE Spoken Language Technology Workshop, SLT 2018 - Proceedings, art. no. 8639639, pp. 145-152. Cited 62 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/mostRecentIssue.jsp?punumber=8632666
+ISBN: 978-153864334-1
+doi: 10.1109/SLT.2018.8639639
+
+View at Publisher
+
+
+57
+	
+(2023) Sign language translator
+Mar
+https://apps.apple.com/us/app/signlanguage-translator/id1458992650
+
+ 
+
+
+58
+	
+(2023) 
+Mar
+Signing savvy
+
+ 
+
+
+59
+	
+Sondej, F.
+(2023) 
+Mar. Version: 2.0.4, Accessed: 2023-03-01.
+Autocorrect
+
+ 
+
+
+60
+	
+Specia, L., Raj, D., Turchi, M.
+
+Machine translation evaluation versus quality estimation (Open Access)
+
+(2010) Machine Translation, 24 (1), pp. 39-50. Cited 109 times.
+doi: 10.1007/s10590-010-9077-2
+
+View at Publisher
+
+
+61
+	
+Stoll, S., Camgoz, N.C., Hadfield, S., Bowden, R.
+
+Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks
+
+(2020) International Journal of Computer Vision, 128 (4), pp. 891-908. Cited 146 times.
+http://www.kluweronline.com/issn/0920-5691/
+doi: 10.1007/s11263-019-01281-2
+
+View at Publisher
+
+
+62
+	
+Stoll, S., Hadfield, S., Bowden, R.
+
+SignSynth: Data-Driven Sign Language Video Generation
+
+(2020) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 12538 LNCS, pp. 353-370. Cited 6 times.
+https://www-springer-com-ssl.access.yonsei.ac.kr/series/558
+ISBN: 978-303066822-8
+doi: 10.1007/978-3-030-66823-5_21
+
+View at Publisher
+
+
+63
+	
+Tennant, R.A., Gluszak, M., Brown, M.G.
+(1998) The American sign language handshape dictionary. Cited 69 times.
+Gallaudet University Press
+
+ 
+
+
+64
+	
+(2022) The asl interpreter shortage and its impact on accessibility in college settings
+Dec
+https://nationaldeafcenter.org/news-items/the-aslinterpreter-shortage-and-its-impact-on-accessibility-in-collegesettings/
+
+ 
+
+
+65
+	
+(2023) Transmission rate vs. bandwidth in bluetooth technology
+Mar
+https://resources.pcb.cadence.com/blog/2022-transmission-rate-vsbandwidth-in-bluetooth-technology
+
+ 
+
+
+66
+	
+Unmarked and marked handshapes in sign language. Accessed: 2023-02-29.
+https://www.handspeak.com/learn/index.php?id=439
+
+ 
+
+
+67
+	
+Valli, C., Lucas, C.
+(2000) Linguistics of American sign language: An introduction. Cited 412 times.
+Gallaudet University Press
+
+ 
+
+
+68
+	
+(2023) Vicars, B.
+Accessed: 2023-07-15.
+Classifiers
+
+ 
+
+
+69
+	
+(2023) Vivo sign language translator
+Mar
+https://assist.vivo.com/detail/translate
+
+ 
+
+
+70
+	
+(2023) Voiss
+Mar
+https://www.projectvoiss.org/
+
+ 
+
+
+71
+	
+(2023) Vuzix blade 2
+Mar.
+https://vr-compare.com/headset/vuzixblade2
+
+ 
+
+
+72
+	
+(2022) Wikipedia contributors. Mixamo - Wikipedia, the free encyclopedia. Cited 7 times.
+Accessed: 7-December-2022.
+https://en.wikipedia.org/w/index.php?title=Mixamo&oldid=1106970206
+
+ 
+
+
+73
+	
+(2023) Wikipedia contributors. Signing space - Wikipedia, the free encyclopedia
+Accessed: 2023-07-30.
+https://en.wikipedia.org/wiki/Signing_space
+
+ 
+
+
+74
+	
+Zhang, F., Bazarevsky, V., Vakunov, A., Tkachenka, A., Sung, G., Chang, C.-L., Grundmann, M.
+(2020) Mediapipe hands: On-device real-time hand tracking. Cited 541 times.
+
+ 
+
+
+75
+	
+Zhang, Q., Jing, J., Wang, D., Zhao, R.
+
+WearSign: Pushing the Limit of Sign Language Translation Using Inertial and EMGWearables
+
+(2022) Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6 (1), art. no. 35. Cited 20 times.
+https://dl-acm-org-ssl.access.yonsei.ac.kr/pub.cfm?id=J1566&CFID=818762994&CFTOKEN=30473978
+doi: 10.1145/3517257
+
+View at Publisher
+
+
+76
+	
+Zhao, Y., Bennett, C.L., Benko, H., Cutrell, E., Holz, C., Morris, M.R., Sinclair, M.
+
+Enabling people with visual impairments to navigate virtual reality with a haptic and auditory cane simulation
+
+(2018) Conference on Human Factors in Computing Systems - Proceedings, 2018-April. Cited 136 times.
+ISBN: 978-145035620-6; 978-145035621-3
+doi: 10.1145/3173574.3173690
+
+View at Publisher
+
+
+77
+	
+Zhou, Z., Chen, K., Li, X., Zhang, S., Wu, Y., Zhou, Y., Meng, K., (...), Chen, J.
+
+Sign-to-speech translation using machine-learning-assisted stretchable sensor arrays
+
+(2020) Nature Electronics, 3 (9), pp. 571-578. Cited 582 times.
+https://www-nature-com-ssl.access.yonsei.ac.kr/natelectron/
+doi: 10.1038/s41928-020-0428-6
+
+View at Publisher
+
+  Guo, Y.; Ucla Computer Science Department, Los Angeles, CA, United States; email:luckiday@cs.ucla.edu
+  Zhao, J.; Ucla Computer Science Department, Los Angeles, CA, United States; email:jzhao@cs.ucla.edu
+  Ding, B.; Ucla Computer Science Department, Los Angeles, CA, United States; email:dboyan@cs.ucla.edu
+  Tan, C.; Ucla Computer Science Department, Los Angeles, CA, United States; email:cktan@g.ucla.edu
+  Ling, W.; Ucla Computer Science Department, Los Angeles, CA, United States; email:wchling@cs.ucla.edu
+  Du, H.; Ucla Computer Science Department, Los Angeles, CA, United States; email:hongzhedu@g.ucla.edu
+  Lu, S.; Ucla Computer Science Department, Los Angeles, CA, United States; email:slu@cs.ucla.edu
+© Copyright 2024 Elsevier B.V., All rights reserved.
+
+1of1
+ Top of page
+Cited by 2 documents
+Sensor2Scene: Foundation Model-Driven Interactive Realities
+Guo, Y. , Hou, K. , Yan, Z.
+(2024) Proceedings - 2024 IEEE International Workshop on Foundation Models for Cyber-Physical Systems and Internet of Things, FMSys 2024
+A Four-Stage Mahalanobis-Distance-Based Method for Hand Posture Recognition
+Warchoł , D. , Kapuściński , T.
+(2023) Applied Sciences (Switzerland)
+View all 2 citing documents
+Inform me when this document is cited in Scopus:
+Set citation alert 
+Related documents
+American Sign Language Recognition and Translation Using Perception Neuron Wearable Inertial Motion Capture System
+Gu, Y. , Oku, H. , Todoh, M.
+(2024) Sensors
+The Sem-Lex Benchmark: Modeling ASL Signs and their Phonemes
+Kezar, L. , Thomason, J. , Daniels, A.
+(2023) ASSETS 2023 - Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility
+SmartASL: "Point-of-Care" Comprehensive ASL Interpreter Using Wearables
+Jin, Y. , Zhang, S. , Gao, Y.
+(2023) Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+View all related documents based on references
+
+Find more related documents in Scopus based on:
+Authors 
+Keywords 
+About Scopus
+What is Scopus
+Learn more about Scopus (opens in a new window)
+Content coverage
+Learn more about Scopus' content coverage (opens in a new window)
+Scopus blog
+Read the Scopus Blog (opens in a new window)
+Scopus API
+Learn more about Scopus API's (opens in a new window)
+Privacy matters
+View privacy matters page (opens in a new window)
+Language
+日本語版を表示する
+日本語版を表示する
+查看简体中文版本
+查看简体中文版本
+查看繁體中文版本
+查看繁體中文版本
+Просмотр версии на русском языке
+Просмотр версии на русском языке
+Customer Service
+Help
+View Scopus help files (opens in a new window)
+Tutorials
+Select to view tutorials (opens in a new window)
+Contact us
+Contact us (opens in a new window)
+Go to the Elsevier site (opens in a new window)
+Terms and conditions
+View the terms and conditions of Elsevier (opens in a new window)
+Privacy policy
+View the privacy policy of Elsevier (opens in a new window)
+All content on this site: Copyright © 2024 Elsevier B.V.
+Go to the Elsevier site (opens in a new window)
+, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.
+We use cookies to help provide and enhance our service and tailor content.By continuing, you agree to the use of cookies
+See Cookie details (opens in a new window)
+.
+Go to RELX Group Homepage (Opens in a new window)

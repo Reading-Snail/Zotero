@@ -1,0 +1,792 @@
+Skip to main content
+Opens in a new tab
+Elsevier Logo
+Scopus Logo
+Document details - ETAG: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle
+1of1
+ Download
+ Print
+ Save to PDF
+ Add to List
+ Create bibliography
+Proceedings of the Annual International Conference on Mobile Computing and Networking, MOBICOMPages 706 - 7202023 29th Annual International Conference on Mobile Computing and Networking, MobiCom 2023Madrid2 October 2023through 6 October 2023Code 190704
+Document type
+Conference Paper
+Source type
+Conference Proceedings
+ISSN
+15435679
+DOI
+10.1145/3570361.3613262
+View more
+ETAG: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle
+Vu, Hien
+Send mail to Vu H.
+;
+Chung, Hanwook
+Send mail to Chung H.
+;
+Choi, Christopher
+Send mail to Choi C.
+;
+Kim, Younghyun
+Send mail to Kim Y.
+Save all to author list
+a Department of Electrical and Computer Engineering, College of Engineering, Wisconsin Embedded Systems and Computing Laboratory, University of Wisconsin-Madison, Madison, 60032179, WI, United States
+176th percentile
+Citation in Scopus
+1.23
+FWCI
+FWCI
+View all metrics
+Full text options
+Export
+Abstract
+
+Heat stress, caused by a warming climate and the increasingly high milk-producing dairy cattle, is one of the major threats to the well-being of dairy cattle as well as the economic, environmental, and social sustainability of dairy farming around the world. Timely identification of cows under heat stress is crucial to improving animal welfare, preventing milk production losses, and preserving water and energy for cooling.This paper presents a smart ear tag, named eTag, and an associated system that can read a passive microchip temperature sensor subcutaneously injected into the animal with minimal discomfort. It features a lightweight design using a single coil shared for microchip scanning and wireless charging. eTag is autonomously recharged by a wireless charger over the head during daily milking sessions, enabling perpetual operation without battery replacement after deployment. The real-world performance of the proposed system was examined intensively in a three-week deployment on seven lactating Holstein cows. We demonstrate that eTag can reliably collect accurate body temperature in real time while maintaining a positive energy flow. The deployment of eTag will enable the timely detection of heat stress and facilitate precision control of barn cooling systems. © 2023 ACM.
+
+Author keywords
+energy harvesting; precision livestock farming; real-time health monitoring; wearable device
+Indexed keywords
+Sustainable Development Goals
+Learn more Sustainable Development Goals
+SciVal Topics
+Learn about these Topics
+Metrics
+Funding details
+References (54)
+View in search results format 
+All RIS export  Print  E-mail  Save to PDF Create bibliography
+1
+	
+Adu-Manu, K.S., Adam, N., Tapparello, C., Ayatollahi, H., Heinzelman, W.
+
+Energy-harvesting wireless sensor networks (EH-WSNs): A review
+
+(2018) ACM Transactions on Sensor Networks, 14 (2), art. no. 10. Cited 280 times.
+https://dl-acm-org.access.yonsei.ac.kr/citation.cfm?id=J981
+doi: 10.1145/3183338
+
+View at Publisher
+
+
+2
+	
+Andersen, N.K., Meyer, O., Bradley, A., Dragsted, N., Lassen, A.B., Sjögren, I., Larsen, J.M., (...), Milne, A.
+
+Evaluation of the PhysioTel™ Digital M11 cardiovascular telemetry implant in socially housed cynomolgus monkeys up to 16 weeks after surgery
+
+(2017) Journal of Pharmacological and Toxicological Methods, 87, pp. 82-92. Cited 6 times.
+www.elsevier.com/locate/jpharmtox
+doi: 10.1016/j.vascn.2017.04.007
+
+View at Publisher
+
+
+3
+	
+Atkins, I.K., Cook, N.B., Mondaca, M.R., Choi, C.Y.
+
+Continuous respiration rate measurement of heat-stressed dairy cows and relation to environment, body temperature, and lying time
+
+(2018) Transactions of the ASABE, 61 (5), pp. 1475-1485. Cited 35 times.
+http://elibrary.asabe.org/azdez.asp?JID=3&AID=49778&ConfID=t2018&v=61&i=5&T=2&redirType=
+doi: 10.13031/trans.12451
+
+View at Publisher
+
+
+4
+	
+Benaissa, S., Plets, D., Tanghe, E., Trogh, J., Martens, L., Vandaele, L., Verloock, L., (...), Joseph, W.
+
+Internet of animals: Characterisation of LoRa sub-GHz off-body wireless channel in dairy barns
+
+(2017) Electronics Letters, 53 (18), pp. 1281-1283. Cited 45 times.
+https://scitation-aip-org.access.yonsei.ac.kr/dbt/dbt.jsp?KEY=ELLEAK
+doi: 10.1049/el.2017.1344
+
+View at Publisher
+
+
+5
+	
+Burfeind, O., Suthar, V.S., Heuwieser, W.
+
+Effect of heat stress on body temperature in healthy early postpartum dairy cows
+
+(2012) Theriogenology, 78 (9), pp. 2031-2038. Cited 55 times.
+doi: 10.1016/j.theriogenology.2012.07.024
+
+View at Publisher
+
+
+6
+	
+Cavagnaro, T., Jackson, L., Scow, K.
+California agricultural landscapes and climate change
+(2006) Climate Change: Challenges and Solutions for California Agricultural Landscapes (2006).
+
+ 
+
+
+7
+	
+Chen, W.-A., Hsu, J.-T., Lin, T.-T.
+
+An Automated Thermal Imaging System Based on Deep Learning for Dairy Cow Eye Temperature Measurement (Open Access)
+
+(2022) 2022 ASABE Annual International Meeting
+doi: 10.13031/aim.202200537
+
+View at Publisher
+
+
+8
+	
+Chung, H., Li, J., Kim, Y., Choi, C.Y.
+
+Continuous and wireless skin contact and ear implant temperature measurements and relations to the core body temperature of heat stressed dairy cows (Open Access)
+
+(2018) 10th International Livestock Environment Symposium, ILES 2018. Cited 5 times.
+doi: 10.13031/iles.ILES18-059
+
+View at Publisher
+
+
+9
+	
+Chung, H., Li, J., Kim, Y., Van Os, J.M.C., Brounts, S.H., Choi, C.Y.
+
+Using implantable biosensors and wearable scanners to monitor dairy cattle's core body temperature in real-time (Open Access)
+
+(2020) Computers and Electronics in Agriculture, 174, art. no. 105453. Cited 39 times.
+www.elsevier.com/inca/publications/store/5/0/3/3/0/4
+doi: 10.1016/j.compag.2020.105453
+
+View at Publisher
+
+
+10
+	
+(1992) IEEE Standard for Safety Levels With Respect to Human Exposure to Radio Frequency Electromagnetic Fields, 3kHz to 300GHz. Cited 1963 times.
+IEEE Standards Coordinating Committee. IEEE C95. 1-1991 (1992).
+
+ 
+
+
+11
+	
+Covic, G.A., Boys, J.T.
+
+Inductive power transfer
+
+(2013) Proceedings of the IEEE, 101 (6), art. no. 6492113, pp. 1276-1289. Cited 1004 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/RecentIssue.jsp?punumber=5
+doi: 10.1109/JPROC.2013.2244536
+
+View at Publisher
+
+
+12
+	
+(2023) CubiSens™ TS110, Ultra-Small Implantable Wireless Temperature Sensor.
+Retrieved 2023/07/25 from
+CubeWorks
+
+ 
+
+
+13
+	
+de Andrade Ferrazza, R., Mogollón Garcia, H.D., Vallejo Aristizábal, V.H., de Souza Nogueira, C., Veríssimo, C.J., Sartori, J.R., Sartori, R., (...), Pinheiro Ferreira, J.C.
+
+Thermoregulatory responses of Holstein cows exposed to experimentally induced heat stress
+
+(2017) Journal of Thermal Biology, 66, pp. 68-80. Cited 56 times.
+www.elsevier.com/inca/publications/store/3/8/3
+doi: 10.1016/j.jtherbio.2017.03.014
+
+View at Publisher
+
+
+14
+	
+De Rensis, F., Scaramuzzi, R.J.
+
+Heat stress and seasonal effects on reproduction in the dairy cow - A review (Open Access)
+
+(2003) Theriogenology, 60 (6), pp. 1139-1151. Cited 571 times.
+www.elsevier.com/inca/publications/store/5/2/5/0/2/4/index.htt
+doi: 10.1016/S0093-691X(03)00126-2
+
+View at Publisher
+
+
+15
+	
+De Vries, A., Marcondes, M.I.
+
+Review: Overview of factors affecting productive lifespan of dairy cows (Open Access)
+
+(2020) Animal, 14 (S1), pp. S155-S164. Cited 126 times.
+https://www-cambridge-org-ssl.access.yonsei.ac.kr/core/journals/animal
+doi: 10.1017/S1751731119003264
+
+View at Publisher
+
+
+16
+	
+Deng, Q., Liu, J., Czarkowski, D., Kazimierczuk, M.K., Bojarski, M., Zhou, H., Hu, W.
+
+Frequency-Dependent Resistance of Litz-Wire Square Solenoid Coils and Quality Factor Optimization for Wireless Power Transfer
+
+(2016) IEEE Transactions on Industrial Electronics, 63 (5), art. no. 7383291, pp. 2825-2837. Cited 114 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/tocresult.jsp?isnumber=5410131
+doi: 10.1109/TIE.2016.2518126
+
+View at Publisher
+
+
+17
+	
+Dogan, H., Basyigit, I.B., Yavuz, M., Helhel, S.
+
+Signal level performance variation of radio frequency identification tags used in cow body
+
+(2019) International Journal of RF and Microwave Computer-Aided Engineering, 29 (7), art. no. e21674. Cited 9 times.
+https://onlinelibrary-wiley-com.access.yonsei.ac.kr/journal/10.1002/(ISSN)1099-047X
+doi: 10.1002/mmce.21674
+
+View at Publisher
+
+
+18
+	
+Faulkner, P.M., Weary, D.M.
+
+Reducing pain after dehorning in dairy calves (Open Access)
+
+(2000) Journal of Dairy Science, 83 (9), pp. 2037-2041. Cited 205 times.
+http://www.elsevier.com/wps/find/journaldescription.cws_home/721317/description#description
+doi: 10.3168/jds.S0022-0302(00)75084-3
+
+View at Publisher
+
+
+19
+	
+Ferreira, F.C., Gennari, R.S., Dahl, G.E., De Vries, A.
+
+Economic feasibility of cooling dry cows across the United States
+
+(2016) Journal of Dairy Science, 99 (12), pp. 9931-9941. Cited 70 times.
+http://www.elsevier.com/wps/find/journaldescription.cws_home/721317/description#description
+doi: 10.3168/jds.2016-11566
+
+View at Publisher
+
+
+20
+	
+Fuquay, J.W.
+
+Heat stress as it affects animal production. (Open Access)
+
+(1981) Journal of animal science, 52 (1), pp. 164-174. Cited 346 times.
+doi: 10.2527/jas1981.521164x
+
+View at Publisher
+
+
+21
+	
+Galán, E., Llonch, P., Villagrá, A., Levit, H., Pinto, S., Del Prado, A.
+
+A systematic review of non-productivityrelated animal-based indicators of heat stress resilience in dairy cattle (Open Access)
+
+(2018) PLoS ONE, 13 (11), art. no. e0206520. Cited 75 times.
+https://journals-plos-org-ssl.access.yonsei.ac.kr/plosone/article/file?id=10.1371/journal.pone.0206520&type=printable
+doi: 10.1371/journal.pone.0206520
+
+View at Publisher
+
+
+22
+	
+Georgiou, O., Raza, U.
+
+Low Power Wide Area Network Analysis: Can LoRa Scale?
+
+(2017) IEEE Wireless Communications Letters, 6 (2), art. no. 7803607, pp. 162-165. Cited 553 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/RecentIssue.jsp?punumber=5962382
+doi: 10.1109/LWC.2016.2647247
+
+View at Publisher
+
+
+23
+	
+Gerber, M.I., Swinker, A.M., Staniar, W.B., Werner, J.R., Jedrzejewski, E.A., Macrina, A.L.
+
+Health Factors Associated with Microchip Insertion in Horses
+
+(2012) Journal of Equine Veterinary Science, 32 (3), pp. 177-182. Cited 18 times.
+doi: 10.1016/j.jevs.2011.08.016
+
+View at Publisher
+
+
+24
+	
+Giro, A., Bernardi, A.C.D.C., Barioni Junior, W., Lemes, A.P., Botta, D., Romanello, N., Barreto, A.D.N., (...), Garcia, A.R.
+
+Application of microchip and infrared thermography for monitoring body temperature of beef cattle kept on pasture (Open Access)
+
+(2019) Journal of Thermal Biology, 84, pp. 121-128. Cited 39 times.
+www.elsevier.com/inca/publications/store/3/8/3
+doi: 10.1016/j.jtherbio.2019.06.009
+
+View at Publisher
+
+
+25
+	
+Gleerup, K.B., Andersen, P.H., Munksgaard, L., Forkman, B.
+
+Pain evaluation in dairy cattle
+
+(2015) Applied Animal Behaviour Science, 171, pp. 25-32. Cited 121 times.
+www.elsevier.com/inca/publications/store/5/0/3/3/0/1
+doi: 10.1016/j.applanim.2015.08.023
+
+View at Publisher
+
+
+26
+	
+Gunga, H.-C., Werner, A., Stahn, A., Steinach, M., Schlabs, T., Koralewski, E., Kunz, D., (...), Koch, J.
+
+The Double sensor-A non-invasive device to continuously monitor core temperature in humans on earth and in space
+
+(2009) Respiratory Physiology and Neurobiology, 169 (SUPPL.), pp. S63-S68. Cited 91 times.
+http://www.elsevier.com/inca/publications/store/6/2/2/7/2/7/
+doi: 10.1016/j.resp.2009.04.005
+
+View at Publisher
+
+
+27
+	
+Harvatine, K.J., Allen, M.S.
+
+The effect of production level on feed intake, milk yield, and endocrine responses to two fatty acid supplements in lactating cows
+
+(2005) Journal of Dairy Science, 88 (11), pp. 4018-4027. Cited 70 times.
+http://www.elsevier.com/wps/find/journaldescription.cws_home/721317/description#description
+doi: 10.3168/jds.S0022-0302(05)73088-5
+
+View at Publisher
+
+
+28
+	
+Hoffmann, G., Schmidt, M., Ammon, C., Rose-Meierhöfer, S., Burfeind, O., Heuwieser, W., Berg, W.
+
+Monitoring the body temperature of cows and calves using video recordings from an infrared thermography camera
+
+(2013) Veterinary Research Communications, 37 (2), pp. 91-99. Cited 133 times.
+doi: 10.1007/s11259-012-9549-3
+
+View at Publisher
+
+
+29
+	
+Hui, S.Y.R., Zhong, W., Lee, C.K.
+
+A critical review of recent progress in mid-range wireless power transfer (Open Access)
+
+(2014) IEEE Transactions on Power Electronics, 29 (9), art. no. 6472081, pp. 4500-4511. Cited 1228 times.
+doi: 10.1109/TPEL.2013.2249670
+
+View at Publisher
+
+
+30
+	
+Iwasaki, W., Ishida, S., Kondo, D., Ito, Y., Tateno, J., Tomioka, M.
+
+Monitoring of the core body temperature of cows using implantable wireless thermometers
+
+(2019) Computers and Electronics in Agriculture, 163, art. no. 104849. Cited 22 times.
+www.elsevier.com/inca/publications/store/5/0/3/3/0/4
+doi: 10.1016/j.compag.2019.06.004
+
+View at Publisher
+
+
+31
+	
+Jung, S., Chung, H., Mondaca, M.R., Nordlund, K.V., Choi, C.Y.
+
+Using computational fluid dynamics to develop positive-pressure precision ventilation systems for large-scale dairy houses (Open Access)
+
+(2023) Biosystems Engineering, 227, pp. 182-194. Cited 7 times.
+http://www.elsevier.com/inca/publications/store/6/2/2/7/9/5/index.htt
+doi: 10.1016/j.biosystemseng.2023.02.003
+
+View at Publisher
+
+
+32
+	
+Kadzere, C.T., Murphy, M.R., Silanikove, N., Maltz, E.
+
+Heat stress in lactating dairy cows: A review (Open Access)
+
+(2002) Livestock Production Science, 77 (1), pp. 59-91. Cited 1008 times.
+www.elsevier.com/inca/publications/store/5/0/3/3/1/1/index.htt
+doi: 10.1016/S0301-6226(01)00330-X
+
+View at Publisher
+
+
+33
+	
+Kampers, F.W.H., Rossing, W., Eradus, W.J.
+
+The ISO standard for radiofrequency identification of animals
+
+(1999) Computers and Electronics in Agriculture, 24 (1-2), pp. 27-43. Cited 24 times.
+doi: 10.1016/S0168-1699(99)00035-6
+
+View at Publisher
+
+
+34
+	
+Kim, H., Min, Y., Choi, B.
+
+Real-time temperature monitoring for the early detection of mastitis in dairy cattle: Methods and case researches (Open Access)
+
+(2019) Computers and Electronics in Agriculture, 162, pp. 119-125. Cited 39 times.
+www.elsevier.com/inca/publications/store/5/0/3/3/0/4
+doi: 10.1016/j.compag.2019.04.004
+
+View at Publisher
+
+
+35
+	
+Kurs, A., Karalis, A., Moffatt, R., Joannopoulos, J.D., Fisher, P., Soljačić, M.
+
+Wireless power transfer via strongly coupled magnetic resonances
+
+(2007) Science, 317 (5834), pp. 83-86. Cited 4992 times.
+doi: 10.1126/science.1143254
+
+View at Publisher
+
+
+36
+	
+Li, H., Li, J., Wang, K., Chen, W., Yang, X.
+
+A maximum efficiency point tracking control scheme for wireless power transfer systems using magnetic resonant coupling (Open Access)
+
+(2015) IEEE Transactions on Power Electronics, 30 (7), art. no. 6880373, pp. 3998-4008. Cited 523 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/tocresult.jsp?isnumber=4712525
+doi: 10.1109/TPEL.2014.2349534
+
+View at Publisher
+
+
+37
+	
+Liu, J., Li, L., Chen, X., Lu, Y., Wang, D.
+
+Effects of heat stress on body temperature, milk production, and reproduction in dairy cows: A novel idea for monitoring and evaluation of heat stress — A review (Open Access)
+
+(2019) Asian-Australasian Journal of Animal Sciences, 32 (9), pp. 1332-1339. Cited 100 times.
+https://www.ajas.info/upload/pdf/ajas-18-0743.pdf
+doi: 10.5713/ajas.18.0743
+
+View at Publisher
+
+
+38
+	
+Ma, S., Yao, Q., Masuda, T., Higaki, S., Yoshioka, K., Arai, S., Takamatsu, S., (...), Itoh, T.
+
+Development of Noncontact Body Temperature Monitoring and Prediction System for Livestock Cattle
+
+(2021) IEEE Sensors Journal, 21 (7), art. no. 9353564, pp. 9367-9376. Cited 24 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/RecentIssue.jsp?punumber=7361
+doi: 10.1109/JSEN.2021.3056112
+
+View at Publisher
+
+
+39
+	
+Markert, M., Trautmann, T., Krause, F., Cioaga, M., Mouriot, S., Wetzel, M., Guth, B.D.
+
+A new telemetry-based system for assessing cardiovascular function in group-housed large animals. Taking the 3Rs to a new level with the evaluation of remote measurement via cloud data transmission
+
+(2018) Journal of Pharmacological and Toxicological Methods, 93, pp. 90-97. Cited 14 times.
+www.elsevier.com/locate/jpharmtox
+doi: 10.1016/j.vascn.2018.03.006
+
+View at Publisher
+
+
+40
+	
+Murugeswari, S., Murugan, K., Rajathi, S., Santhana Kumar, M.
+
+Monitoring body temperature of cattle using an innovative infrared photodiode thermometer (Open Access)
+
+(2022) Computers and Electronics in Agriculture, 198, art. no. 107120. Cited 7 times.
+www.elsevier.com/inca/publications/store/5/0/3/3/0/4
+doi: 10.1016/j.compag.2022.107120
+
+View at Publisher
+
+
+41
+	
+Ahlbom, A., Bergqvist, U., Bernhardt, J.H., Cesarini, J.P., Court, L.A., Grandolfo, M., Hietanen, M., (...), Matthes, R.
+
+Guidelines for limiting exposure to time-varying electric, magnetic, and electromagnetic fields (up to 300 GHz) (Open Access)
+
+(1998) Health Physics, 74 (4), pp. 494-521. Cited 5554 times.
+
+
+
+42
+	
+Ota, H., Chao, M., Gao, Y., Wu, E., Tai, L.-C., Chen, K., Matsuoka, Y., (...), Javey, A.
+
+3D printed "earable" smart devices for real-time detection of core body temperature (Open Access)
+
+(2017) ACS Sensors, 2 (7), pp. 990-997. Cited 113 times.
+https://pubs-acs-org.access.yonsei.ac.kr/journal/ascefj
+doi: 10.1021/acssensors.7b00247
+
+View at Publisher
+
+
+43
+	
+Directive 2010/63/eu of the european parliament and of the council of 22 september 2010 on the protection of animals used for scientific purposes
+(2010) Official Journal of the European Union, 276, pp. 33-79. Cited 1732 times.
+(2010) European Parliament and Council
+
+ 
+
+
+44
+	
+Polsky, L., von Keyserlingk, M.A.G.
+
+Invited review: Effects of heat stress on dairy cattle welfare (Open Access)
+
+(2017) Journal of Dairy Science, 100 (11), pp. 8645-8657. Cited 510 times.
+http://www.elsevier.com/wps/find/journaldescription.cws_home/721317/description#description
+doi: 10.3168/jds.2017-12651
+
+View at Publisher
+
+
+45
+	
+Stull, C.L., Messam, L.L.McV., Collar, C.A., Peterson, N.G., Castillo, A.R., Reed, B.A., Andersen, K.L., (...), VerBoort, W.R.
+
+Precipitation and temperature effects on mortality and lactation parameters of dairy cattle in California (Open Access)
+
+(2008) Journal of Dairy Science, 91 (12), pp. 4579-4591. Cited 68 times.
+http://jds.fass.org/cgi/reprint/91/12/4579
+doi: 10.3168/jds.2008-1215
+
+View at Publisher
+
+
+46
+	
+Suthar, V., Burfeind, O., Maeder, B., Heuwieser, W.
+
+Agreement between rectal and vaginal temperature measured with temperature loggers in dairy cows (Open Access)
+
+(2013) Journal of Dairy Research, 80 (2), pp. 240-245. Cited 43 times.
+doi: 10.1017/S0022029913000071
+
+View at Publisher
+
+
+47
+	
+Thornton, P., Nelson, G., Mayberry, D., Herrero, M.
+
+Impacts of heat stress on global cattle production during the 21st century: a modelling study (Open Access)
+
+(2022) The Lancet Planetary Health, 6 (3), pp. e192-e201. Cited 80 times.
+https://www.journals.elsevier.com/the-lancet-planetary-health
+doi: 10.1016/S2542-5196(22)00002-X
+
+View at Publisher
+
+
+48
+	
+Vitali, A., Segnalini, M., Bertocchi, L., Bernabucci, U., Nardone, A., Lacetera, N.
+
+Seasonal pattern of mortality and relationships between mortality and temperature-humidity index in dairy cows
+
+(2009) Journal of Dairy Science, 92 (8), pp. 3781-3790. Cited 181 times.
+http://jds.fass.org/cgi/reprint/92/8/3781
+doi: 10.3168/jds.2009-2127
+
+View at Publisher
+
+
+49
+	
+West, J.W.
+
+Effects of heat-stress on production in dairy cattle (Open Access)
+
+(2003) Journal of Dairy Science, 86 (6), pp. 2131-2144. Cited 1344 times.
+http://www.elsevier.com/wps/find/journaldescription.cws_home/721317/description#description
+doi: 10.3168/jds.S0022-0302(03)73803-X
+
+View at Publisher
+
+
+50
+	
+Wheelock, J.B., Rhoads, R.P., VanBaale, M.J., Sanders, S.R., Baumgard, L.H.
+
+Effects of heat stress on energetic metabolism in lactating Holstein cows (Open Access)
+
+(2010) Journal of Dairy Science, 93 (2), pp. 644-655. Cited 589 times.
+doi: 10.3168/jds.2009-2295
+
+View at Publisher
+
+
+51
+	
+Yin, J., Yi, J., Law, M.K., Ling, Y., Lee, M.C., Ng, K.P., Gao, B., (...), Yuen, M.
+
+A system-on-chip EPC Gen-2 passive UHF RFID tag with embedded temperature sensor (Open Access)
+
+(2010) IEEE Journal of Solid-State Circuits, 45 (11), art. no. 5593894, pp. 2404-2420. Cited 184 times.
+doi: 10.1109/JSSC.2010.2072631
+
+View at Publisher
+
+
+52
+	
+Zhang, W., Mi, C.C.
+
+Compensation topologies of high-power wireless power transfer systems (Open Access)
+
+(2016) IEEE Transactions on Vehicular Technology, 65 (6), art. no. 7152988, pp. 4768-4778. Cited 756 times.
+doi: 10.1109/TVT.2015.2454292
+
+View at Publisher
+
+
+53
+	
+Zhang, Y., Zhao, Z., Chen, K.
+
+Frequency decrease analysis of resonant wireless power transfer
+
+(2014) IEEE Transactions on Power Electronics, 29 (3), art. no. 6576898, pp. 1058-1063. Cited 136 times.
+doi: 10.1109/TPEL.2013.2277783
+
+View at Publisher
+
+
+54
+	
+Zhang, Z., Pang, H., Georgiadis, A., Cecati, C.
+
+Wireless Power Transfer - An Overview (Open Access)
+
+(2019) IEEE Transactions on Industrial Electronics, 66 (2), art. no. 8357386, pp. 1044-1058. Cited 1186 times.
+https://ieeexplore-ieee-org.access.yonsei.ac.kr/xpl/tocresult.jsp?isnumber=5410131
+doi: 10.1109/TIE.2018.2835378
+
+View at Publisher
+
+  Vu, H.; Department of Electrical and Computer Engineering, College of Engineering, Wisconsin Embedded Systems and Computing Laboratory, University of Wisconsin-Madison, Madison, WI, United States; email:hien.vu@wisc.edu
+© Copyright 2024 Elsevier B.V., All rights reserved.
+
+1of1
+ Top of page
+Cited by 1 document
+Cow Behavior Recognition Based on Wearable Nose Rings
+Feng, W. , Fan, D. , Wu, H.
+(2024) Animals
+View details of this citation
+Inform me when this document is cited in Scopus:
+Set citation alert 
+Related documents
+Subcutaneous temperature monitoring through ear tag for heat stress detection in dairy cows
+Chung, H. , Vu, H. , Kim, Y.
+(2023) Biosystems Engineering
+Effects of increasing air temperature on physiological and productive responses of dairy cows at different relative humidity and air velocity levels
+Zhou, M. , Aarnink, A.J.A. , Huynh, T.T.T.
+(2022) Journal of Dairy Science
+Comparing thermal conditions inside and outside lactating dairy cattle barns in Canada
+VanderZaag, A. , Le Riche, E. , Baldé, H.
+(2023) Journal of Dairy Science
+View all related documents based on references
+
+Find more related documents in Scopus based on:
+Authors 
+Keywords 
+About Scopus
+What is Scopus
+Learn more about Scopus (opens in a new window)
+Content coverage
+Learn more about Scopus' content coverage (opens in a new window)
+Scopus blog
+Read the Scopus Blog (opens in a new window)
+Scopus API
+Learn more about Scopus API's (opens in a new window)
+Privacy matters
+View privacy matters page (opens in a new window)
+Language
+日本語版を表示する
+日本語版を表示する
+查看简体中文版本
+查看简体中文版本
+查看繁體中文版本
+查看繁體中文版本
+Просмотр версии на русском языке
+Просмотр версии на русском языке
+Customer Service
+Help
+View Scopus help files (opens in a new window)
+Tutorials
+Select to view tutorials (opens in a new window)
+Contact us
+Contact us (opens in a new window)
+Go to the Elsevier site (opens in a new window)
+Terms and conditions
+View the terms and conditions of Elsevier (opens in a new window)
+Privacy policy
+View the privacy policy of Elsevier (opens in a new window)
+All content on this site: Copyright © 2024 Elsevier B.V.
+Go to the Elsevier site (opens in a new window)
+, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.
+We use cookies to help provide and enhance our service and tailor content.By continuing, you agree to the use of cookies
+See Cookie details (opens in a new window)
+.
+Go to RELX Group Homepage (Opens in a new window)
